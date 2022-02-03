@@ -64,3 +64,37 @@ ERVERYDAY_REWARD_12:
   - ' &9+250 experience &7(&92250 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
+ERVERYDAY_REWARD_13:
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&92250 &7in total)'
+  - ''
+  - '&7Available for &eLegend &7and above.'
+
+  #Достижения:
+
+FIRST_JOIN_1: "Welcome!"
+FIRST_JOIN_2: "Visit our project for the first time."
+FIRST_MESSAGE_1: "Lover to talk."
+FIRST_MESSAGE_2: "Say you first message."
+FIRST_FRIEND_1: "Friendship - it's strong"
+FIRST_FRIEND_2: "Find a friend on server."
+FRIENDS_1: "Friends forever"
+FRIENDS_2: "Add more than 20 player to friends."
+FOREVER_ALONE_1: "Forever Alone"
+FOREVER_ALONE_2: "Hide all players in lobby."
+HERO_1: "Local hero"
+HERO_2: "Buy &9Hero&7 on our project."
+LORD_1: "Best lord"
+LORD_2: "Buy &6Lord&7 on our project."
+ULTRA_1: "Important person"
+ULTRA_2: "Buy &bUltra&7 on our project."
+ELITE_1: ".. all inclusive.."
+ELITE_2: "Buy &aElite&7 on our project."
+YOUTUBE_1: "Lights, camera, motor, start!"
+YOUTUBE_2: "Get Youtube on our project."
+COINS_KEEPER_1: "Rich boy"
+COINS_KEEPER_2: "Get more than %d gold."
+EXPERIENCE_KEEPER_1: "Experienced guy"
+EXPERIENCE_KEEPER_2: "Get more than %d lvls."
+BEST_PROJECT_1: "Lovely project"
+BEST_PROJECT_2: "Show your love for the project."
