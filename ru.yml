@@ -3,10 +3,10 @@
 
 # API.getUserRegistry().get(name).getTranslations().get("COMMANDS");
 # API.getUserRegistry().get(name).getTranslations().list("COMMANDSS");
-COMMANDS: ""
-COMMANDSS:
-  - '&7Бесплатная ежедневная посылка:'
-  - 'ыфвфы'
+#COMMANDS: ""
+#COMMANDSS:
+#  - '&7Бесплатная ежедневная посылка:'
+#  - 'ыфвфы'
 
 #Ежедневные награды:
 #Ошибка Deliveries.java
