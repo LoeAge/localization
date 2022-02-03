@@ -1,78 +1,100 @@
 #Локализация игрового проекта LoeAge Network
-#RU (Русский)
-
-# API.getUserRegistry().get(name).getTranslations().get("COMMANDS");
-# API.getUserRegistry().get(name).getTranslations().list("COMMANDSS");
-#COMMANDS: ""
-#COMMANDSS:
-#  - '&7Бесплатная ежедневная посылка:'
-#  - 'ыфвфы'
+#EN (Английский)
 
 #Ежедневные награды:
-#Ошибка Deliveries.java
 
+COMMANDS: ""
 ERVERYDAY_REWARD_1:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота'
-    - ''
-    - '&7Доступно для всех игроков проекта.'
+  - '&7Free daily rewards:'
+  - ' &6+100 gold'
+  - ''
+  - '&7All can collect this reward.'
 ERVERYDAY_REWARD_2:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6175 &7в сумме)'
-    - ''
-    - '&7Доступно для &9Hero &7и выше.'
+  - '&7Free daily rewards:'
+  - ' &6+75 gold &7(&6175 &7in total)'
+  - ''
+  - '&7Available for &9Hero &7and above.'
 ERVERYDAY_REWARD_3:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6250 &7в сумме)'
-    - ''
-    - '&7Доступно для &6Lord &7и выше.'
+  - '&7Free daily rewards:'
+  - ' &6+75 gold &7(&6250 &7in total)'
+  - ''
+  - '&7Available for &6Lord &7and above.'
 ERVERYDAY_REWARD_4:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6325 &7в сумме)'
-    - ''
-    - '&7Доступно для &bUltra &7и выше.'
+  - '&7Free daily rewards:'
+  - ' &6+75 gold &7(&6325 &7in total)'
+  - ''
+  - '&7Available for &bUltra &7and above.'
 ERVERYDAY_REWARD_5:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6400 &7в сумме)'
-    - ''
-    - '&7Доступно для &aElite &7и выше.'
+  - '&7Free daily rewards:'
+  - ' &6+75 gold &7(&6400 &7in total)'
+  - ''
+  - '&7Available for &aElite &7and above.'
 ERVERYDAY_REWARD_6:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &6+75 золота &7(&6475 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &6+75 gold &7(&6475 &7in total)'
   - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - '&7Available for &eLegend &7and above.'
 ERVERYDAY_REWARD_7:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+1000 опыта'
+  - '&7Free daily rewards:'
+  - ' &9+1000 experience'
   - ''
-  - '&7Доступно всем игрокам проекта.'
+  - '&7All can collect this reward.'
 ERVERYDAY_REWARD_8:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91250 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&91250 &7in total)'
   - ''
-  - '&7Доступно для &9Hero &7и выше.'
+  - '&7Available for &9Hero &7and above.'
 ERVERYDAY_REWARD_9:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91500 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&91500 &7in total)'
   - ''
-  - '&7Доступно для &6Lord &7и выше.'
+  - '&7Available for &6Lord &7and above.'
 ERVERYDAY_REWARD_10:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91750 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&91750 &7in total)'
   - ''
-  - '&7Доступно для &bUltra &7и выше.'
+  - '&7Available for &bUltra &7and above.'
 ERVERYDAY_REWARD_11:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92000 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&92000 &7in total)'
   - ''
-  - '&7Доступно для &aElite &7и выше.'
+  - '&7Available for &aElite &7and above.'
 ERVERYDAY_REWARD_12:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92250 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&92250 &7in total)'
   - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - '&7Available for &eLegend &7and above.'
 ERVERYDAY_REWARD_13:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92250 &7в сумме)'
+  - '&7Free daily rewards:'
+  - ' &9+250 experience &7(&92250 &7in total)'
   - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - '&7Available for &eLegend &7and above.'
+
+  #Достижения:
+
+FIRST_JOIN_1: "Welcome!"
+FIRST_JOIN_2: "Visit our project for the first time."
+FIRST_MESSAGE_1: "Lover to talk."
+FIRST_MESSAGE_2: "Say you first message."
+FIRST_FRIEND_1: "Friendship - it's strong"
+FIRST_FRIEND_2: "Find a friend on server."
+FRIENDS_1: "Friends forever"
+FRIENDS_2: "Add more than 20 player to friends."
+FOREVER_ALONE_1: "Forever Alone"
+FOREVER_ALONE_2: "Hide all players in lobby."
+HERO_1: "Local hero"
+HERO_2: "Buy &9Hero&7 on our project."
+LORD_1: "Best lord"
+LORD_2: "Buy &6Lord&7 on our project."
+ULTRA_1: "Important person"
+ULTRA_2: "Buy &bUltra&7 on our project."
+ELITE_1: ".. all inclusive.."
+ELITE_2: "Buy &aElite&7 on our project."
+YOUTUBE_1: "Lights, camera, motor, start!"
+YOUTUBE_2: "Get Youtube on our project."
+COINS_KEEPER_1: "Rich boy"
+COINS_KEEPER_2: "Get more than %d gold."
+EXPERIENCE_KEEPER_1: "Experienced guy"
+EXPERIENCE_KEEPER_2: "Get more than %d lvls."
+BEST_PROJECT_1: "Lovely project"
+BEST_PROJECT_2: "Show your love for the project."
