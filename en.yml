@@ -1,100 +1,241 @@
 #Локализация игрового проекта LoeAge Network
-#EN (Английский)
+#RU (Русский)
+
+# API.getUserRegistry().get(name).getTranslations().get("COMMANDS");
+# API.getUserRegistry().get(name).getTranslations().list("COMMANDSS");
+COMMANDS: ""
+COMMANDSS:
+  - '&7Бесплатная ежедневная посылка:'
+  - 'ыфвфы'
 
 #Ежедневные награды:
-
-COMMANDS: ""
+#Ошибка Deliveries.java
 ERVERYDAY_REWARD_1:
-  - '&7Free daily rewards:'
-  - ' &6+100 gold'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+100 золота'
   - ''
-  - '&7All can collect this reward.'
+  - '&7Доступно всем игрокам проекта.'
 ERVERYDAY_REWARD_2:
-  - '&7Free daily rewards:'
-  - ' &6+75 gold &7(&6175 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+75 золота &7(&6175 &7в сумме)'
   - ''
-  - '&7Available for &9Hero &7and above.'
+  - '&7Доступно для &9Hero &7и выше.'
 ERVERYDAY_REWARD_3:
-  - '&7Free daily rewards:'
-  - ' &6+75 gold &7(&6250 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+75 золота &7(&6250 &7в сумме)'
   - ''
-  - '&7Available for &6Lord &7and above.'
+  - '&7Доступно для &6Lord &7и выше.'
 ERVERYDAY_REWARD_4:
-  - '&7Free daily rewards:'
-  - ' &6+75 gold &7(&6325 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+75 золота &7(&6325 &7в сумме)'
   - ''
-  - '&7Available for &bUltra &7and above.'
+  - '&7Доступно для &bUltra &7и выше.'
 ERVERYDAY_REWARD_5:
-  - '&7Free daily rewards:'
-  - ' &6+75 gold &7(&6400 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+75 золота &7(&6400 &7в сумме)'
   - ''
-  - '&7Available for &aElite &7and above.'
+  - '&7Доступно для &aElite &7и выше.'
 ERVERYDAY_REWARD_6:
-  - '&7Free daily rewards:'
-  - ' &6+75 gold &7(&6475 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &6+75 золота &7(&6475 &7в сумме)'
   - ''
-  - '&7Available for &eLegend &7and above.'
+  - '&7Доступно для &eLegend &7и выше.'
 ERVERYDAY_REWARD_7:
-  - '&7Free daily rewards:'
-  - ' &9+1000 experience'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+1000 опыта'
   - ''
-  - '&7All can collect this reward.'
+  - '&7Доступно всем игрокам проекта.'
 ERVERYDAY_REWARD_8:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&91250 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&91250 &7в сумме)'
   - ''
-  - '&7Available for &9Hero &7and above.'
+  - '&7Доступно для &9Hero &7и выше.'
 ERVERYDAY_REWARD_9:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&91500 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&91500 &7в сумме)'
   - ''
-  - '&7Available for &6Lord &7and above.'
+  - '&7Доступно для &6Lord &7и выше.'
 ERVERYDAY_REWARD_10:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&91750 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&91750 &7в сумме)'
   - ''
-  - '&7Available for &bUltra &7and above.'
+  - '&7Доступно для &bUltra &7и выше.'
 ERVERYDAY_REWARD_11:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&92000 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&92000 &7в сумме)'
   - ''
-  - '&7Available for &aElite &7and above.'
+  - '&7Доступно для &aElite &7и выше.'
 ERVERYDAY_REWARD_12:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&92250 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&92250 &7в сумме)'
   - ''
-  - '&7Available for &eLegend &7and above.'
+  - '&7Доступно для &eLegend &7и выше.'
 ERVERYDAY_REWARD_13:
-  - '&7Free daily rewards:'
-  - ' &9+250 experience &7(&92250 &7in total)'
+  - '&7Бесплатная ежедневная посылка:'
+  - ' &9+250 опыта &7(&92250 &7в сумме)'
   - ''
-  - '&7Available for &eLegend &7and above.'
+  - '&7Доступно для &eLegend &7и выше.'
 
-  #Достижения:
+#Достижения:
 
-FIRST_JOIN_1: "Welcome!"
-FIRST_JOIN_2: "Visit our project for the first time."
-FIRST_MESSAGE_1: "Lover to talk."
-FIRST_MESSAGE_2: "Say you first message."
-FIRST_FRIEND_1: "Friendship - it's strong"
-FIRST_FRIEND_2: "Find a friend on server."
-FRIENDS_1: "Friends forever"
-FRIENDS_2: "Add more than 20 player to friends."
-FOREVER_ALONE_1: "Forever Alone"
-FOREVER_ALONE_2: "Hide all players in lobby."
-HERO_1: "Local hero"
-HERO_2: "Buy &9Hero&7 on our project."
-LORD_1: "Best lord"
-LORD_2: "Buy &6Lord&7 on our project."
-ULTRA_1: "Important person"
-ULTRA_2: "Buy &bUltra&7 on our project."
-ELITE_1: ".. all inclusive.."
-ELITE_2: "Buy &aElite&7 on our project."
-YOUTUBE_1: "Lights, camera, motor, start!"
-YOUTUBE_2: "Get Youtube on our project."
-COINS_KEEPER_1: "Rich boy"
-COINS_KEEPER_2: "Get more than %d gold."
-EXPERIENCE_KEEPER_1: "Experienced guy"
-EXPERIENCE_KEEPER_2: "Get more than %d lvls."
-BEST_PROJECT_1: "Lovely project"
-BEST_PROJECT_2: "Show your love for the project."
+FIRST_JOIN_1: 'Добро пожаловать'
+FIRST_JOIN_2: 'Впервые зайдите на наш проект.'
+FIRST_MESSAGE_1: 'Любитель поговорить'
+FIRST_MESSAGE_2: 'Напишите свое первое сообщение.'
+FIRST_FRIEND_1: 'Дружба - это сила'
+FIRST_FRIEND_2: 'Подружитесь с одним из игроков.'
+FRIENDS_1: 'Друзья на все времена'
+FRIENDS_2: 'Добавьте в друзья 20 игроков.'
+FOREVER_ALONE_1: 'Forever Alone'
+FOREVER_ALONE_2: 'Скройте всех игроков в лобби.'
+HERO_1: 'Местный герой'
+HERO_2: 'Приобретите группу &9Hero&7 на проекте.'
+LORD_1: 'Лучший князь'
+LORD_2: 'Приобретите группу &6Lord&7 на проекте.'
+ULTRA_1: 'Очень важная персона'
+ULTRA_2: 'Приобретите группу &bUltra&7 на проекте.'
+ELITE_1: '.. all inclusive..'
+ELITE_2: 'Приобретите группу &aElite&7 на проекте.'
+YOUTUBE_1: 'Свет, камера, мотор, начали!'
+YOUTUBE_2: 'Получите группу Youtube на проекте.'
+COINS_KEEPER_1: 'Держатель казны'
+COINS_KEEPER_2: 'Держите на счету не менее %d золота.'
+EXPERIENCE_KEEPER_1: 'Хранитель опыта'
+EXPERIENCE_KEEPER_2: 'Получите %d серверный уровень.'
+BEST_PROJECT_1: 'Любимый проект'
+BEST_PROJECT_2: 'Выразите свою любовь к проекту.'
+HACKER_1: 'Прирожденный хацкер'
+HACKER_2: 'Найдите секретную команду.'
+ROAD_TO_HELL_1: 'Бездна'
+ROAD_TO_HELL_2: 'Упадите в пропасть на хабе проекта.'
+ROAD_TO_SPACE_1: 'Почти космонавт'
+ROAD_TO_SPACE_2: 'Попробуйте слетать в космос.'
+DID_IT_1: 'Автограф создателя'
+DID_IT_2: 'Стукните одного из владельцев проекта.'
+STAFF_1: 'Часть великолепной команды'
+STAFF_2: 'Станьте частью команды нашего проекта.'
+SKYWARS_KILLS_1: 'Небесный убийца'
+SKYWARS_KILLS_2: 'Совершите %d убийств.'
+SKYWARS_WINS_1: 'Чемпион поднебесья'
+SKYWARS_WINS_2: 'Победите в %d играх.'
+SKYWARS_CAGES_HOARDER_1: 'Коллекционер клеток'
+SKYWARS_CAGES_HOARDER_2: 'Разблокируйте %d клеток.'
+SKYWARS_HEADS_HOARDER_1: 'Коллекционер голов"
+SKYWARS_HEADS_HOARDER_2: 'Соберите %d голов с игроков.'
+SKYWARS_STARS_1: 'Звездная личность'
+SKYWARS_STARS_2: 'Получите %d уровень SkyWars.'
+SKYWARS_ANGELS_JOURNEY_1: 'Проклятое путешествие'
+SKYWARS_ANGELS_JOURNEY_2: 'Пожертвуйте монеты в пользу Ангела Смерти 12 раз.'
+SKYWARS_DRAGON_1: 'Дракон Края'
+SKYWARS_DRAGON_2: 'Дождитесь появления драконов на карте.'
+SKYWARS_GOLDEN_APPLE_1: 'Золотое яблочко'
+SKYWARS_GOLDEN_APPLE_2: 'Съешьте золотое яблоко.'
+SKYWARS_GOTCHA_1: 'Нереальное везение'
+SKYWARS_GOTCHA_2: 'Совершите убийство, когда у вас осталось меньше 1-го сердечка.'
+SKYWARS_KILL_STOLEN_1: 'Ассистент'
+SKYWARS_KILL_STOLEN_2: 'Совершите 5 ассистов в одиночной игре.'
+SKYWARS_LEGENDARY_1: 'Легендарный'
+SKYWARS_LEGENDARY_2: 'Получите либо купите любой легендарный косметический предмет.'
+SKYWARS_MAX_PERK_1: 'На максималках'
+SKYWARS_MAX_PERK_2: 'Прокачайте любой из перков до 5 уровня.'
+SKYWARS_FULL_SOULS_WELL_1: 'Коллеционер душ'
+SKYWARS_FULL_SOULS_WELL_2: 'Заполните хранилище душ.'
+SKYWARS_NO_CHEST_CHALLENGE_1: 'ПРО-фессионал'
+SKYWARS_NO_CHEST_CHALLENGE_2: 'Победите игру, не открыв ни одного сундука.'
+SKYWARS_ENCHANTED_1: 'Зачарованный'
+SKYWARS_ENCHANTED_2: 'Зачаруйте алмазный меч.'
+SKYWARS_PEACEMAKER_1: 'Миротворец'
+SKYWARS_PEACEMAKER_2: 'Победите игру, не сделав ни одного убийства.'
+SKYWARS_SHINY_STAFF_1: 'Блестящие доспехи'
+SKYWARS_SHINY_STAFF_2: 'Наденьте сет алмазной брони.'
+SKYWARS_FAST_AND_FURIOUS_1: 'Свирепый убийца'
+SKYWARS_FAST_AND_FURIOUS_2: 'Совершите убийство в первые 10 секунд игры.'
+SKYWARS_SNIPER_1: 'Лучник'
+SKYWARS_SNIPER_2: 'Совершите 30 попаданий из лука за одну игру.'
+SKYWARS_SUPER_KILLER_1: 'Чудовище на небесах'
+SKYWARS_SUPER_KILLER_2: 'Совершите 8 убийств за игру.'
+SKYWARS_SPEED_RUN_1: 'Соник'
+SKYWARS_SPEED_RUN_2: 'Победите в рейтинговой игре за 1 минуту.'
+SKYWARS_OPEN_CHEST_1: '3; 2; 1; Начали!'
+SKYWARS_OPEN_CHEST_2: 'Первым откройте сундук на карте.'
+SKYWARS_CORRUPTION_LORD_1: 'Проклятый лорд'
+SKYWARS_CORRUPTION_LORD_2: 'Победите в проклятой игре.'
+SKYWARS_PORTAL_GAME_1: 'Игра телепортов?'
+SKYWARS_PORTAL_GAME_2: 'Держите в своем инвентаре стак эндерперлов.'
+SKYWARS_MOB_SPAWNER_1: 'Прислужник'
+SKYWARS_MOB_SPAWNER_2: 'Призовите скелета-прислужника.'
+SKYWARS_SOLD_YOUR_SOUL_1: 'Проклятая сделка'
+SKYWARS_SOLD_YOUR_SOUL_2: 'Совершите свое первое пожертвование монет в пользу Ангела Смерти.'
+SKYWARS_WELL_DESERVED_1: 'Отличная подготовка'
+SKYWARS_WELL_DESERVED_2: 'Получите награду за рейтинговую игру.'
+SKYWARS_WELL_WELL_1: 'Колодец Душ'
+SKYWARS_WELL_WELL_2: 'Воспользуйтесь колодцем душ.'
+
+Achivement_Title: 'Достижения'
+Global_Achivement: 'Глобальные достижения'
+Global_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все глобальные достижения проекта.'
+  - ''
+Secret_Achivement: 'Секретные достижения'
+Secret_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все секретные достижения проекта.'
+  - ''
+  - '&7&oЭти достижения получить непросто'
+  - '&7&oили даже практически невозможно..'
+  - ''
+SkyWars_Achivement: 'SkyWars достижения'
+SkyWars_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все SkyWars достижения проекта.'
+  - ''
+Achivement_unlocked: '&7Разблокировано: &a%d/%d &7(%d%%)'
+Achivement_menu_open:
+  - ''
+  - '&eНажмите, чтобы открыть меню!'
+Achivement_GUI_back: 'Вернуться назад'
+Achivement_GUI_page: ' (Стр. %d/%d)'
+Achivement_GUI_already: '&7Выполнено: %s'
+Achivement_GUI_already2: '&aВы выполнили это достижение!'
+Achivement_GUI_level_achivements: '&7Уровень достижения: &a%d &7из &a%d'
+Achivement_GUI_reward: '&7Награда за выполнение:'
+Achivement_GUI_reward2: '&f- &9%d серверного опыта'
+Achivement_GUI_do: '&eВы выполняете это достижение!'
+Achivement_GUI_level_achivement: '&7Уровней достижения: &a%d'
+Achivement_GUI_not_do: '&cДостижение еще не выполнено!'
+Achivement_GUI_secret: '&8&l???'
+Achivement_GUI_page2: ' страница'
+Achivement_GUI_info: 'Информация'
+Achivement_GUI_info2:
+  - '&7Достижения - это вид поощрения, которые вы можете'
+  - '&7получить, играя на серверах нашего проекта.'
+  - ''
+  - '&7Все достижения разбиты на категории для удобства.'
+  - '&7Некоторые из достижений открываются очень легко,'
+  - '&7а некоторые действительно сложны в получении.'
+  - ''
+  - '&7Играйте на нашем проекте, и однажды вы сможете'
+  - '&7разблокировать абсолютно все.'
+  - ''
+  - '&7Наведите курсор на различные достижения, чтобы'
+  - '&7узнать больше о типе и наградах, которые они дают.'
+Achivement_on_unlock_line: '&7&l&k######################'
+Achivement_on_unlock:
+  - ''
+  - '&b&lLoeAge Network'
+  - ''
+  - '&a&lПолучено достижение:'
+  - '&b&l%s &7(Уровень %d)'
+  - ''
+Achivement_on_unlock2:
+  - ''
+  - '&b&lLoeAge Network'
+  - ''
+  - '&a&lПолучено достижение:'
+  - '&b&l%s'
+  - ''
+Achivement_on_unlock3:
+  - ''
+  - '&9+%d серверного опыта'
+  - ''
