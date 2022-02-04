@@ -6,8 +6,32 @@
 #COMMANDS: ""
 #COMMANDSS:
 #  - '&7Бесплатная ежедневная посылка:'
-#Ежедневные награды:
+#Префиксы
+SETTINGS: '&aSettings'
+SKINS: '&aSkins'
+BUNGEE: '&cBungee'
+PARTY: '&aParties'
+QUEUES: '&aQueues'
+STREAMS: '&aStreams'
+FRIENDS: '&aFriends'
+NETWORK: '&cNetwork'
+REPORTS: '&eReports'
+COMMANDS: '&6Commands'
+BOOSTERS: '&aBoosters'
+ANTI-FLOOD: '&3&lHercules'
+DELIVERIES: '&aDeliveries'
+INFORMATION: '&6Information'
+INFRACTIONS: '&eInfractions'
+COLLECTIBLES: '&aCosmetics'
+NETWORK_LEVELING: '&aNetwork Leveling'
+ERROR: '&cError'
+PARKOUR: '&aParkour'
+DROPPER: '&aDropper'
+TUTORIAL: '&aTutorial'
+DISGUISE: '&aDisguise'
+COINS_CHANGER: 'Coins Changer'
 
+#Ежедневные награды:
 EVERYDAY_REWARD_GUI: 'Ежедневные посылки'
 EVERYDAY_REWARD_CLAIM: '&eНажмите, чтобы получить посылку!'
 EVERYDAY_REWARD_CLAIM_REWARD: '&eПолучить посылку'
