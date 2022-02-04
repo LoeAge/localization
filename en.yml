@@ -188,13 +188,13 @@ SKYWARS_SOLD_YOUR_SOUL_2: 'Donate first times to "Death Angel".'
 SKYWARS_WELL_DESERVED_1: 'Good training'
 SKYWARS_WELL_DESERVED_2: 'Get a present after ranked game.'
 SKYWARS_WELL_WELL_1: "Soul's sump"
-SKYWARS_WELL_WELL_2: 'Use soul's sump.'
+SKYWARS_WELL_WELL_2: "Use soul's sump.""
 
 Achivement_Title: 'Achievements'
 Global_Achivement: 'Global achievements'
 Global_Achivement_2:
   - '&7In this category'
-  - "&7all project's global achievements.
+  - "&7all project's global achievements."
   - ''
 Secret_Achivement: 'Secret achievements'
 Secret_Achivement_2:
