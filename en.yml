@@ -222,7 +222,7 @@ Achivement_GUI_reward: '&7Reward:'
 Achivement_GUI_reward2: '&f- &9%d server experience'
 Achivement_GUI_do: '&eYou completing this achievement!'
 Achivement_GUI_level_achivement: '&7Complete parts: &a%d'
-Achivement_GUI_not_do: '&cAchievement don't completed!'
+Achivement_GUI_not_do: "&cAchievement don't completed!"
 Achivement_GUI_secret: '&8&l???'
 Achivement_GUI_page2: ' page'
 Achivement_GUI_info: 'Info'
@@ -247,7 +247,7 @@ Achivement_on_unlock3: '&9+%d server experience'
 #Бустеры:
 BOOSTERS_GUI_TITLE: 'Personal multipliers'
 BOOSTERS_ALREADY: '&cYou alredy have actived multiplier!'
-BOOSTERS_NOT: '&cYou don't have it multiplier, may, something went wrong..'
+BOOSTERS_NOT: "&cYou don't have it multiplier, may, something went wrong.."
 BOOSTERS_BOOST: '&aMultiplier &bx%s &afor &b%s'
 BOOSTERS_CLICK_TO_ACTIVE: '&aClick to activate!'
 BOOSTERS_ACTIVE: '&aYou activated addtional multiplier &bx%s &afor &b%s&a!'
