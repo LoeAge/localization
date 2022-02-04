@@ -109,7 +109,6 @@ EVERYDAY_REWARD_13:
   - '&7Доступно для &eLegend &7и выше.'
 
 #Достижения:
-
 FIRST_JOIN_1: 'Добро пожаловать'
 FIRST_JOIN_2: 'Впервые зайдите на наш проект.'
 FIRST_MESSAGE_1: 'Любитель поговорить'
@@ -153,7 +152,7 @@ SKYWARS_WINS_2: 'Победите в %d играх.'
 SKYWARS_CAGES_HOARDER_1: 'Коллекционер клеток'
 SKYWARS_CAGES_HOARDER_2: 'Разблокируйте %d клеток.'
 SKYWARS_HEADS_HOARDER_1: 'Коллекционер голов"
-#SKYWARS_HEADS_HOARDER_2: 'Соберите %d голов с игроков.'
+SKYWARS_HEADS_HOARDER_2: 'Соберите %d голов с игроков.'
 SKYWARS_STARS_1: 'Звездная личность'
 SKYWARS_STARS_2: 'Получите %d уровень SkyWars.'
 SKYWARS_ANGELS_JOURNEY_1: 'Проклятое путешествие'
