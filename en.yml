@@ -42,7 +42,7 @@ EVERYDAY_REWARD_NEW_REWARD: '&7Новая посылка через: &b'
 EVERYDAY_REWARD_CLAIMING_1: '&aПосылка получена'
 EVERYDAY_REWARD_CLAIMING_2: '&eПриходи за новой посылкой завтра'
 EVERYDAY_REWARD_LOCKED: '&cВы не можете получить эту посылку!'
-EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку! хуй'
+EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку!'
 
 ERVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
