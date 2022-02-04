@@ -158,7 +158,7 @@ SKYWARS_LEGENDARY_2: 'Buy any legendary item.'
 SKYWARS_MAX_PERK_1: 'Maximum'
 SKYWARS_MAX_PERK_2: 'Upgrade any perk to 5 level.'
 SKYWARS_FULL_SOULS_WELL_1: 'Collector souls'
-SKYWARS_FULL_SOULS_WELL_2: 'Full soul's storage.'
+SKYWARS_FULL_SOULS_WELL_2: "Full soul's storage."
 SKYWARS_NO_CHEST_CHALLENGE_1: 'PRO'
 SKYWARS_NO_CHEST_CHALLENGE_2: 'Win game, but no open anyone chests.'
 SKYWARS_ENCHANTED_1: 'Enchanted'
@@ -187,19 +187,19 @@ SKYWARS_SOLD_YOUR_SOUL_1: 'Cursed answer'
 SKYWARS_SOLD_YOUR_SOUL_2: 'Donate first times to "Death Angel".'
 SKYWARS_WELL_DESERVED_1: 'Good training'
 SKYWARS_WELL_DESERVED_2: 'Get a present after ranked game.'
-SKYWARS_WELL_WELL_1: 'Soul's sump'
+SKYWARS_WELL_WELL_1: "Soul's sump"
 SKYWARS_WELL_WELL_2: 'Use soul's sump.'
 
 Achivement_Title: 'Achievements'
 Global_Achivement: 'Global achievements'
 Global_Achivement_2:
   - '&7In this category'
-  - '&7all project's global achievements.'
+  - "&7all project's global achievements.
   - ''
 Secret_Achivement: 'Secret achievements'
 Secret_Achivement_2:
   - '&7In this category'
-  - '&7all project's secret achievements.'
+  - "&7all project's secret achievements."
   - ''
   - '&7&oThese achievements get not easy'
   - '&7&oor almost unreal'
@@ -207,7 +207,7 @@ Secret_Achivement_2:
 SkyWars_Achivement: 'SkyWars achievements'
 SkyWars_Achivement_2:
   - '&7In this category'
-  - '&7all project's skywars achievements.'
+  - "&7all project's skywars achievements."
   - ''
 Achivement_unlocked: '&7Unlocked: &a%d/%d &7(%d%%)'
 Achivement_menu_open:
@@ -254,14 +254,14 @@ BOOSTERS_ACTIVE: '&aYou activated addtional multiplier &bx%s &afor &b%s&a!'
 
 #Золото:
 GOLD_NAME_UNO: 'Gold'
-GOLD_NAME_DUE: 'gold's'
+GOLD_NAME_DUE: "golds"
 GOLD_NAME_ANOTHER: 'golds'
 
 #Hub ScoreBoard:
 HUB_SCOREBOARD_GROUP: 'Group: '
 HUB_SCOREBOARD_LEVEL: 'Level: '
 HUB_SCOREBOARD_EXP: 'Experience: '
-HUB_SCOREBOARD_LEVEL_ACHIVEMENT: 'Achivement lvl: '
+HUB_SCOREBOARD_LEVEL_ACHIVEMENT: "Achivement's lvl: "
 HUB_SCOREBOARD_ONLINE: 'Online: '
 HUB_SCOREBOARD_GOLD: 'Gold: '
 HUB_SCOREBOARD_LOADING: 'Loading...'
