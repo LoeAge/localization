@@ -1,9 +1,35 @@
 #Локализация игрового проекта LoeAge Network
 #EN (Английский)
 
-#Ежедневные награды:
+#LoeAge Network
+SITE: 'www.loeage.net'
 
-COMMANDS: ""
+#Префиксы
+SETTINGS: '&aНастройки'
+SKINS: '&aСкины'
+BUNGEE: '&cBungee'
+PARTY: '&aГруппа'
+QUEUES: '&aОчереди'
+STREAMS: '&aТрансляции'
+FRIENDS: '&aДрузья'
+NETWORK: '&cСеть'
+REPORTS: '&eЖалобы'
+COMMANDS: '&6Команды'
+BOOSTERS: '&aБустеры'
+ANTI-FLOOD: '&3&lГеркулес'
+DELIVERIES: '&aПосылки'
+INFORMATION: '&6Информация'
+INFRACTIONS: '&eМодерация'
+COLLECTIBLES: '&aКоллекция'
+NETWORK_LEVELING: '&aСерверный уровень'
+ERROR: '&cОшибка'
+PARKOUR: '&aПаркур'
+DROPPER: '&aДроппер'
+TUTORIAL: '&aОбучение'
+DISGUISE: '&aDisguise'
+COINS_CHANGER: 'Казначей'
+
+#Ежедневные награды:
 ERVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
   - ' &6+100 gold'
@@ -70,8 +96,7 @@ ERVERYDAY_REWARD_13:
   - ''
   - '&7Available for &eLegend &7and above.'
 
-  #Достижения:
-
+#Достижения:
 FIRST_JOIN_1: "Welcome!"
 FIRST_JOIN_2: "Visit our project for the first time."
 FIRST_MESSAGE_1: "Lover to talk."
@@ -215,21 +240,28 @@ Achivement_GUI_info2:
   - '&7Наведите курсор на различные достижения, чтобы'
   - '&7узнать больше о типе и наградах, которые они дают.'
 Achivement_on_unlock_line: '&7&l&k######################'
-Achivement_on_unlock:
-  - ''
-  - '&b&lLoeAge Network'
-  - ''
-  - '&a&lПолучено достижение:'
-  - '&b&l%s &7(Уровень %d)'
-  - ''
-Achivement_on_unlock2:
-  - ''
-  - '&b&lLoeAge Network'
-  - ''
-  - '&a&lПолучено достижение:'
-  - '&b&l%s'
-  - ''
-Achivement_on_unlock3:
-  - ''
-  - '&9+%d серверного опыта'
-  - ''
+Achivement_on_unlock1: '&a&lПолучено достижение:'
+Achivement_on_unlock2: '&b&l%s &7(Уровень %d)'
+Achivement_on_unlock3: '&9+%d серверного опыта'
+
+#Бустеры:
+BOOSTERS_GUI_TITLE: 'Персональные множители'
+BOOSTERS_ALREADY: '&cУ вас уже активирован один из персональных множителей!'
+BOOSTERS_NOT: '&cУ вас нет выбранного множителя, возможно, что-то пошло не так..'
+BOOSTERS_BOOST: '&aМножитель &bx%s &aна &b%s'
+BOOSTERS_CLICK_TO_ACTIVE: '&aНажмите, чтобы активировать!'
+BOOSTERS_ACTIVE: '&aВы активировали дополнительный множитель &bx%s &aна &b%s&a!'
+
+#Золото:
+GOLD_NAME_UNO: 'золото'
+GOLD_NAME_DUE: 'золота'
+GOLD_NAME_ANOTHER: 'золота'
+
+#Hub ScoreBoard:
+HUB_SCOREBOARD_GROUP: 'Группа: '
+HUB_SCOREBOARD_LEVEL: 'Уровень: '
+HUB_SCOREBOARD_EXP: 'Опыт: '
+HUB_SCOREBOARD_LEVEL_ACHIVEMENT: 'Ур. достижений: '
+HUB_SCOREBOARD_ONLINE: 'Онлайн проекта: '
+HUB_SCOREBOARD_GOLD: 'Золото: '
+HUB_SCOREBOARD_LOADING: 'Загрузка...'
