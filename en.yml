@@ -44,67 +44,67 @@ EVERYDAY_REWARD_CLAIMING_2: '&eПриходи за новой посылкой �
 EVERYDAY_REWARD_LOCKED: '&cВы не можете получить эту посылку!'
 EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку!'
 
-ERVERYDAY_REWARD_1:
+EVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
   - ' &6+100 gold'
   - ''
   - '&7All can collect this reward.'
-ERVERYDAY_REWARD_2:
+EVERYDAY_REWARD_2:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6175 &7in total)'
   - ''
   - '&7Available for &9Hero &7and above.'
-ERVERYDAY_REWARD_3:
+EVERYDAY_REWARD_3:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6250 &7in total)'
   - ''
   - '&7Available for &6Lord &7and above.'
-ERVERYDAY_REWARD_4:
+EVERYDAY_REWARD_4:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6325 &7in total)'
   - ''
   - '&7Available for &bUltra &7and above.'
-ERVERYDAY_REWARD_5:
+EVERYDAY_REWARD_5:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6400 &7in total)'
   - ''
   - '&7Available for &aElite &7and above.'
-ERVERYDAY_REWARD_6:
+EVERYDAY_REWARD_6:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6475 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
-ERVERYDAY_REWARD_7:
+EVERYDAY_REWARD_7:
   - '&7Free daily rewards:'
   - ' &9+1000 experience'
   - ''
   - '&7All can collect this reward.'
-ERVERYDAY_REWARD_8:
+EVERYDAY_REWARD_8:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91250 &7in total)'
   - ''
   - '&7Available for &9Hero &7and above.'
-ERVERYDAY_REWARD_9:
+EVERYDAY_REWARD_9:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91500 &7in total)'
   - ''
   - '&7Available for &6Lord &7and above.'
-ERVERYDAY_REWARD_10:
+EVERYDAY_REWARD_10:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91750 &7in total)'
   - ''
   - '&7Available for &bUltra &7and above.'
-ERVERYDAY_REWARD_11:
+EVERYDAY_REWARD_11:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92000 &7in total)'
   - ''
   - '&7Available for &aElite &7and above.'
-ERVERYDAY_REWARD_12:
+EVERYDAY_REWARD_12:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92250 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
-ERVERYDAY_REWARD_13:
+EVERYDAY_REWARD_13:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92250 &7in total)'
   - ''
