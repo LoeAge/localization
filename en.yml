@@ -1,111 +1,235 @@
 #Локализация игрового проекта LoeAge Network
-#RU (Русский)
-
-# API.getUserRegistry().get(name).getTranslations().get("COMMANDS");
-# API.getUserRegistry().get(name).getTranslations().list("COMMANDSS");
-#COMMANDS: ""
-#COMMANDSS:
-#  - '&7Бесплатная ежедневная посылка:'
-#Префиксы
-SETTINGS: '&aSettings'
-SKINS: '&aSkins'
-BUNGEE: '&cBungee'
-PARTY: '&aParties'
-QUEUES: '&aQueues'
-STREAMS: '&aStreams'
-FRIENDS: '&aFriends'
-NETWORK: '&cNetwork'
-REPORTS: '&eReports'
-COMMANDS: '&6Commands'
-BOOSTERS: '&aBoosters'
-ANTI-FLOOD: '&3&lHercules'
-DELIVERIES: '&aDeliveries'
-INFORMATION: '&6Information'
-INFRACTIONS: '&eInfractions'
-COLLECTIBLES: '&aCosmetics'
-NETWORK_LEVELING: '&aNetwork Leveling'
-ERROR: '&cError'
-PARKOUR: '&aParkour'
-DROPPER: '&aDropper'
-TUTORIAL: '&aTutorial'
-DISGUISE: '&aDisguise'
-COINS_CHANGER: 'Coins Changer'
+#EN (Английский)
 
 #Ежедневные награды:
-EVERYDAY_REWARD_GUI: 'Daily parcels'
-EVERYDAY_REWARD_CLAIM: '&eClick to receive the package!'
-EVERYDAY_REWARD_CLAIM_REWARD: '&eReceive a package'
-EVERYDAY_REWARD_DONT_CLAIM_1: '&cYou can't receive this package!'
-EVERYDAY_REWARD_DONT_CLAIM_2: '&cUnavailable package'
-EVERYDAY_REWARD_ALREADY_1: '&aYou have already received this package!'
-EVERYDAY_REWARD_NEW_REWARD: '&7New package via: &b'
-EVERYDAY_REWARD_CLAIMING_1: '&aPackage received'
-EVERYDAY_REWARD_CLAIMING_2: '&eCome for a new package tomorrow'
-EVERYDAY_REWARD_LOCKED: '&cYou can't receive this package!'
-EVERYDAY_REWARD_ALREADY_2: '&aHave you already received this package!'
 
-EVERYDAY_REWARD_1:
+COMMANDS: ""
+ERVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
   - ' &6+100 gold'
   - ''
   - '&7All can collect this reward.'
-EVERYDAY_REWARD_2:
+ERVERYDAY_REWARD_2:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6175 &7in total)'
   - ''
   - '&7Available for &9Hero &7and above.'
-EVERYDAY_REWARD_3:
+ERVERYDAY_REWARD_3:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6250 &7in total)'
   - ''
   - '&7Available for &6Lord &7and above.'
-EVERYDAY_REWARD_4:
+ERVERYDAY_REWARD_4:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6325 &7in total)'
   - ''
   - '&7Available for &bUltra &7and above.'
-EVERYDAY_REWARD_5:
+ERVERYDAY_REWARD_5:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6400 &7in total)'
   - ''
   - '&7Available for &aElite &7and above.'
-EVERYDAY_REWARD_6:
+ERVERYDAY_REWARD_6:
   - '&7Free daily rewards:'
   - ' &6+75 gold &7(&6475 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
-EVERYDAY_REWARD_7:
+ERVERYDAY_REWARD_7:
   - '&7Free daily rewards:'
   - ' &9+1000 experience'
   - ''
   - '&7All can collect this reward.'
-EVERYDAY_REWARD_8:
+ERVERYDAY_REWARD_8:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91250 &7in total)'
   - ''
   - '&7Available for &9Hero &7and above.'
-EVERYDAY_REWARD_9:
+ERVERYDAY_REWARD_9:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91500 &7in total)'
   - ''
   - '&7Available for &6Lord &7and above.'
-EVERYDAY_REWARD_10:
+ERVERYDAY_REWARD_10:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&91750 &7in total)'
   - ''
   - '&7Available for &bUltra &7and above.'
-EVERYDAY_REWARD_11:
+ERVERYDAY_REWARD_11:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92000 &7in total)'
   - ''
   - '&7Available for &aElite &7and above.'
-EVERYDAY_REWARD_12:
+ERVERYDAY_REWARD_12:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92250 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
-EVERYDAY_REWARD_13:
+ERVERYDAY_REWARD_13:
   - '&7Free daily rewards:'
   - ' &9+250 experience &7(&92250 &7in total)'
   - ''
   - '&7Available for &eLegend &7and above.'
+
+  #Достижения:
+
+FIRST_JOIN_1: "Welcome!"
+FIRST_JOIN_2: "Visit our project for the first time."
+FIRST_MESSAGE_1: "Lover to talk."
+FIRST_MESSAGE_2: "Say you first message."
+FIRST_FRIEND_1: "Friendship - it's strong"
+FIRST_FRIEND_2: "Find a friend on server."
+FRIENDS_1: "Friends forever"
+FRIENDS_2: "Add more than 20 player to friends."
+FOREVER_ALONE_1: "Forever Alone"
+FOREVER_ALONE_2: "Hide all players in lobby."
+HERO_1: "Superhero"
+HERO_2: "Buy &9Hero&7 on our project."
+LORD_1: "Best lord"
+LORD_2: "Buy &6Lord&7 on our project."
+ULTRA_1: "Important person"
+ULTRA_2: "Buy &bUltra&7 on our project."
+ELITE_1: ".. all inclusive.."
+ELITE_2: "Buy &aElite&7 on our project."
+YOUTUBE_1: "Lights, camera, motor, start!"
+YOUTUBE_2: "Get Youtube on our project."
+COINS_KEEPER_1: "Rich boy"
+COINS_KEEPER_2: "Get more than %d gold."
+EXPERIENCE_KEEPER_1: "Experienced guy"
+EXPERIENCE_KEEPER_2: "Get more than %d lvls."
+BEST_PROJECT_1: "Lovely project"
+BEST_PROJECT_2: "Show your love for the project."
+HACKER_1: 'Hacker'
+HACKER_2: 'Find a secret command.'
+ROAD_TO_HELL_1: 'Nothing. No one. Just solo'
+ROAD_TO_HELL_2: 'Jump to abyss.'
+ROAD_TO_SPACE_1: 'Almost an astronaut'
+ROAD_TO_SPACE_2: 'Try to fly into space.'
+DID_IT_1: 'Owner's signature'
+DID_IT_2: 'Punch owner.'
+STAFF_1: 'You in staff!'
+STAFF_2: 'Become a staff.'
+SKYWARS_KILLS_1: 'Sky Assassin'
+SKYWARS_KILLS_2: 'Get more than %d kills.'
+SKYWARS_WINS_1: 'Champion'
+SKYWARS_WINS_2: 'Win %d times.'
+SKYWARS_CAGES_HOARDER_1: 'Prison'
+SKYWARS_CAGES_HOARDER_2: 'Get more than %d cell.'
+SKYWARS_HEADS_HOARDER_1: 'Heads collector"
+#SKYWARS_HEADS_HOARDER_2: 'Get more than %d heads from players.'
+SKYWARS_STARS_1: 'Star person'
+SKYWARS_STARS_2: 'Get more than %d SkyWars level.'
+SKYWARS_ANGELS_JOURNEY_1: 'Damn travel'
+SKYWARS_ANGELS_JOURNEY_2: 'Donate gold in favor "Death Angel" 12 times.'
+SKYWARS_DRAGON_1: 'Ender dragon'
+SKYWARS_DRAGON_2: 'Wait to spawn ender dragon in the match.'
+SKYWARS_GOLDEN_APPLE_1: 'Godless apple'
+SKYWARS_GOLDEN_APPLE_2: 'Eat gold apple.'
+SKYWARS_GOTCHA_1: 'Unreal lucky'
+SKYWARS_GOTCHA_2: 'Make a kill, if u have less 1 heart.'
+SKYWARS_KILL_STOLEN_1: 'Assistant'
+SKYWARS_KILL_STOLEN_2: 'Have more than 5 assist in solo game.'
+SKYWARS_LEGENDARY_1: 'Legendary'
+SKYWARS_LEGENDARY_2: 'Buy any legendary item.'
+SKYWARS_MAX_PERK_1: 'Maximum'
+SKYWARS_MAX_PERK_2: 'Upgrade any perk to 5 level.'
+SKYWARS_FULL_SOULS_WELL_1: 'Collector souls'
+SKYWARS_FULL_SOULS_WELL_2: 'Full soul's storage.'
+SKYWARS_NO_CHEST_CHALLENGE_1: 'PRO'
+SKYWARS_NO_CHEST_CHALLENGE_2: 'Win game, but no open anyone chests.'
+SKYWARS_ENCHANTED_1: 'Enchanted'
+SKYWARS_ENCHANTED_2: 'Enchant diamond sword.'
+SKYWARS_PEACEMAKER_1: 'Peacemaker'
+SKYWARS_PEACEMAKER_2: 'Win game, but don't kill anyone.'
+SKYWARS_SHINY_STAFF_1: 'Блестящие доспехи'
+SKYWARS_SHINY_STAFF_2: 'Наденьте сет алмазной брони.'
+SKYWARS_FAST_AND_FURIOUS_1: 'Свирепый убийца'
+SKYWARS_FAST_AND_FURIOUS_2: 'Совершите убийство в первые 10 секунд игры.'
+SKYWARS_SNIPER_1: 'Лучник'
+SKYWARS_SNIPER_2: 'Совершите 30 попаданий из лука за одну игру.'
+SKYWARS_SUPER_KILLER_1: 'Чудовище на небесах'
+SKYWARS_SUPER_KILLER_2: 'Совершите 8 убийств за игру.'
+SKYWARS_SPEED_RUN_1: 'Соник'
+SKYWARS_SPEED_RUN_2: 'Победите в рейтинговой игре за 1 минуту.'
+SKYWARS_OPEN_CHEST_1: '3; 2; 1; Начали!'
+SKYWARS_OPEN_CHEST_2: 'Первым откройте сундук на карте.'
+SKYWARS_CORRUPTION_LORD_1: 'Проклятый лорд'
+SKYWARS_CORRUPTION_LORD_2: 'Победите в проклятой игре.'
+SKYWARS_PORTAL_GAME_1: 'Игра телепортов?'
+SKYWARS_PORTAL_GAME_2: 'Держите в своем инвентаре стак эндерперлов.'
+SKYWARS_MOB_SPAWNER_1: 'Прислужник'
+SKYWARS_MOB_SPAWNER_2: 'Призовите скелета-прислужника.'
+SKYWARS_SOLD_YOUR_SOUL_1: 'Проклятая сделка'
+SKYWARS_SOLD_YOUR_SOUL_2: 'Совершите свое первое пожертвование монет в пользу Ангела Смерти.'
+SKYWARS_WELL_DESERVED_1: 'Отличная подготовка'
+SKYWARS_WELL_DESERVED_2: 'Получите награду за рейтинговую игру.'
+SKYWARS_WELL_WELL_1: 'Колодец Душ'
+SKYWARS_WELL_WELL_2: 'Воспользуйтесь колодцем душ.'
+
+Achivement_Title: 'Достижения'
+Global_Achivement: 'Глобальные достижения'
+Global_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все глобальные достижения проекта.'
+  - ''
+Secret_Achivement: 'Секретные достижения'
+Secret_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все секретные достижения проекта.'
+  - ''
+  - '&7&oЭти достижения получить непросто'
+  - '&7&oили даже практически невозможно..'
+  - ''
+SkyWars_Achivement: 'SkyWars достижения'
+SkyWars_Achivement_2:
+  - '&7В этой категории представлены'
+  - '&7все SkyWars достижения проекта.'
+  - ''
+Achivement_unlocked: '&7Разблокировано: &a%d/%d &7(%d%%)'
+Achivement_menu_open:
+  - ''
+  - '&eНажмите, чтобы открыть меню!'
+Achivement_GUI_back: 'Вернуться назад'
+Achivement_GUI_page: ' (Стр. %d/%d)'
+Achivement_GUI_already: '&7Выполнено: %s'
+Achivement_GUI_already2: '&aВы выполнили это достижение!'
+Achivement_GUI_level_achivements: '&7Уровень достижения: &a%d &7из &a%d'
+Achivement_GUI_reward: '&7Награда за выполнение:'
+Achivement_GUI_reward2: '&f- &9%d серверного опыта'
+Achivement_GUI_do: '&eВы выполняете это достижение!'
+Achivement_GUI_level_achivement: '&7Уровней достижения: &a%d'
+Achivement_GUI_not_do: '&cДостижение еще не выполнено!'
+Achivement_GUI_secret: '&8&l???'
+Achivement_GUI_page2: ' страница'
+Achivement_GUI_info: 'Информация'
+Achivement_GUI_info2:
+  - '&7Достижения - это вид поощрения, которые вы можете'
+  - '&7получить, играя на серверах нашего проекта.'
+  - ''
+  - '&7Все достижения разбиты на категории для удобства.'
+  - '&7Некоторые из достижений открываются очень легко,'
+  - '&7а некоторые действительно сложны в получении.'
+  - ''
+  - '&7Играйте на нашем проекте, и однажды вы сможете'
+  - '&7разблокировать абсолютно все.'
+  - ''
+  - '&7Наведите курсор на различные достижения, чтобы'
+  - '&7узнать больше о типе и наградах, которые они дают.'
+Achivement_on_unlock_line: '&7&l&k######################'
+Achivement_on_unlock:
+  - ''
+  - '&b&lLoeAge Network'
+  - ''
+  - '&a&lПолучено достижение:'
+  - '&b&l%s &7(Уровень %d)'
+  - ''
+Achivement_on_unlock2:
+  - ''
+  - '&b&lLoeAge Network'
+  - ''
+  - '&a&lПолучено достижение:'
+  - '&b&l%s'
+  - ''
+Achivement_on_unlock3:
+  - ''
+  - '&9+%d серверного опыта'
+  - ''
