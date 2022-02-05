@@ -33,17 +33,17 @@ DISGUISE: '&aDisguise'
 COINS_CHANGER: 'Казначей'
 
 #Ежедневные награды:
-EVERYDAY_REWARD_GUI: 'Ежедневные посылки'
-EVERYDAY_REWARD_CLAIM: '&eНажмите, чтобы получить посылку!'
-EVERYDAY_REWARD_CLAIM_REWARD: '&eПолучить посылку'
-EVERYDAY_REWARD_DONT_CLAIM_1: '&cВы не можете получить эту посылку!'
-EVERYDAY_REWARD_DONT_CLAIM_2: '&cНедоступная посылка'
-EVERYDAY_REWARD_ALREADY_1: '&aВы уже получили эту посылку!'
-EVERYDAY_REWARD_NEW_REWARD: '&7Новая посылка через: &b'
-EVERYDAY_REWARD_CLAIMING_1: '&aПосылка получена'
-EVERYDAY_REWARD_CLAIMING_2: '&eПриходи за новой посылкой завтра'
-EVERYDAY_REWARD_LOCKED: '&cВы не можете получить эту посылку!'
-EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку!'
+EVERYDAY_REWARD_GUI: 'Everyday rewards'
+EVERYDAY_REWARD_CLAIM: '&eClick to claim a reward!'
+EVERYDAY_REWARD_CLAIM_REWARD: '&eGet reward'
+EVERYDAY_REWARD_DONT_CLAIM_1: "&cYou don't can get this reward!"
+EVERYDAY_REWARD_DONT_CLAIM_2: '&cNot available reward'
+EVERYDAY_REWARD_ALREADY_1: '&aYou already claim this reward!'
+EVERYDAY_REWARD_NEW_REWARD: '&7New reward after: &b'
+EVERYDAY_REWARD_CLAIMING_1: '&aReward claimed'
+EVERYDAY_REWARD_CLAIMING_2: '&eNew reward wait you tomorrow'
+EVERYDAY_REWARD_LOCKED: '&cThis reward is locked!'
+EVERYDAY_REWARD_ALREADY_2: '&aYou already claim this reward!'
 
 EVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
