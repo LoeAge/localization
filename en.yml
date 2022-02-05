@@ -3,6 +3,7 @@
 
 #LoeAge Network
 SITE: "www.loeage.net"
+SITE_FORMAT: "  www.loeage.net  "
 
 #Префиксы
 SETTINGS: '&aSettings'
@@ -260,7 +261,7 @@ GOLD_NAME_ANOTHER: 'golds'
 #Hub ScoreBoard:
 HUB_SCOREBOARD_GROUP: 'Group: '
 HUB_SCOREBOARD_LEVEL: 'Level: '
-HUB_SCOREBOARD_EXP: 'Experience: '
+HUB_SCOREBOARD_EXP: 'Exp: '
 HUB_SCOREBOARD_LEVEL_ACHIVEMENT: "Achivement's lvl: "
 HUB_SCOREBOARD_ONLINE: 'Online: '
 HUB_SCOREBOARD_GOLD: 'Gold: '
