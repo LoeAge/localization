@@ -33,6 +33,18 @@ DISGUISE: '&aDisguise'
 COINS_CHANGER: 'Казначей'
 
 #Ежедневные награды:
+EVERYDAY_REWARD_GUI: 'Ежедневные посылки'
+EVERYDAY_REWARD_CLAIM: '&eНажмите, чтобы получить посылку!'
+EVERYDAY_REWARD_CLAIM_REWARD: '&eПолучить посылку'
+EVERYDAY_REWARD_DONT_CLAIM_1: '&cВы не можете получить эту посылку!'
+EVERYDAY_REWARD_DONT_CLAIM_2: '&cНедоступная посылка'
+EVERYDAY_REWARD_ALREADY_1: '&aВы уже получили эту посылку!'
+EVERYDAY_REWARD_NEW_REWARD: '&7Новая посылка через: &b'
+EVERYDAY_REWARD_CLAIMING_1: '&aПосылка получена'
+EVERYDAY_REWARD_CLAIMING_2: '&eПриходи за новой посылкой завтра'
+EVERYDAY_REWARD_LOCKED: '&cВы не можете получить эту посылку!'
+EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку!'
+
 EVERYDAY_REWARD_1:
   - '&7Free daily rewards:'
   - ' &6+100 gold'
