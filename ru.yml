@@ -3,6 +3,7 @@
 
 #LoeAge Network
 SITE: "www.loeage.net"
+SITE_FORMAT: "  www.loeage.net  "
 
 #Префиксы
 SETTINGS: '&aНастройки'
