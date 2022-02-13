@@ -280,3 +280,98 @@ HUB_SCOREBOARD_LEVEL_ACHIVEMENT: "Achivement's lvl: "
 HUB_SCOREBOARD_ONLINE: 'Online: '
 HUB_SCOREBOARD_GOLD: 'Gold: '
 HUB_SCOREBOARD_LOADING: 'Loading...'
+
+#NPC:
+COINS_CHANGER_NPC: 'Казначей'
+COINS_CHANGER_GUI_NAME: 'Обмен валют'
+COINS_CHANGER_GUI_COINS_TO_GOLD_1: 'Обменять монеты на золото'
+COINS_CHANGER_GUI_COINS_TO_GOLD_2:
+  - '&7Нажмите, чтобы обменять монеты'
+  - '&7этого режима на золото.'
+COINS_CHANGER_GUI_GOLD_TO_COINS_1: 'Обменять золото на монеты'
+COINS_CHANGER_GUI_GOLD_TO_COINS_2:
+  - '&7Нажмите, чтобы обменять золото'
+  - '&7на монеты этого режима.'
+COINS_CHANGER_GUI_TO_GOLD: '&6%d золота'
+COINS_CHANGER_GUI_TO_COINS: '&7%d монет'
+COINS_CHANGER_GUI_COINS_TO_GOLD_3: '&7Нажмите, чтобы обменять &b%d &7монет на &b%d &7золота.'
+COINS_CHANGER_GUI_GOLD_TO_COINS_3: '&7Нажмите, чтобы обменять &b%d &7золота на &b%d &7монет.'
+COINS_CHANGER_GUI_COINS_TO_GOLD_4: '&cУ вас недостаточно монет для совершения'
+COINS_CHANGER_GUI_GOLD_TO_COINS_4: '&cУ вас недостаточно золота для совершения'
+COINS_CHANGER_GUI_COINS_TO_GOLD_5: '&cэтого обмена (необходимо &7%d монет&c).'
+COINS_CHANGER_GUI_GOLD_TO_COINS_5: '&cэтого обмена (необходимо &6%d золота&c).'
+COINS_CHANGER_GUI_COINS_TO_GOLD_6: '&cНедостаточно монет для совершения обмена (необходимо &7%d монет&c).'
+COINS_CHANGER_GUI_GOLD_TO_COINS_6: '&cНедостаточно золота для совершения обмена (необходимо &6%d золота&c).'
+COINS_CHANGER_GUI_COINS_TO_GOLD_7: '&cНедостаточно монет для совершения обмена. Не пытаетесь ли вы обмануть систему?'
+COINS_CHANGER_GUI_GOLD_TO_COINS_7: '&cНедостаточно золота для совершения обмена. Не пытаетесь ли вы обмануть систему?'
+COINS_CHANGER_GUI_SUCCESSFUL: '&aОбмен успешно совершен!'
+COINS_CHANGER_GUI_ACCEPT_1: 'Подтверждение обмена'
+COINS_CHANGER_GUI_ACCEPT_2: 'Подтвердить обмен'
+COINS_CHANGER_GUI_ACCEPT_3: '&7Нажмите, чтобы подтвердить этот обмен!'
+COINS_CHANGER_GUI_DENY_1: '&cОтменить обмен'
+COINS_CHANGER_GUI_DENY_2: '&7Нажмите, чтобы отменить этот обмен!'
+
+AWAITING_NPC_NAME: 'Ждун'
+AWAITING_NPC_MSG: '&cА это пока что в разработке :('
+
+CONNECTOR_NPC_CONNECT: '&eНажмите, чтобы подключиться'
+CONNECTOR_NPC_QUEUE_1: '&e&lНАЖМИТЕ ДЛЯ НАЧАЛА ИГРЫ'
+CONNECTOR_NPC_QUEUE_2: '&aВстать в очередь'
+CONNECTOR_NPC_QUEUE_3: '&cПокинуть очередь'
+
+EVERYDAY_REWARD_NPC_NAME: 'Гонец'
+EVERYDAY_REWARD_NPC_HOLOGRAM_1: '&cУ вас нет ни одной посылки'
+EVERYDAY_REWARD_NPC_HOLOGRAM_2: '&eУ вас есть &b%d &e%s'
+EVERYDAY_REWARD_NPC_HOLOGRAM_3: '&6Ваши ежедневные посылки'
+EVERYDAY_REWARD_NPC_UNO: 'посылка'
+EVERYDAY_REWARD_NPC_DUO: 'посылки'
+EVERYDAY_REWARD_NPC_ANOTHER: 'посылок'
+
+LEADERBOARD_NPC_NAME: 'Место #%d'
+
+#Голограмы:
+LEADERBOARD_HOLOGRAM_TOP: '&b&lСписок 10-ти лучших игроков'
+LEADERBOARD_HOLOGRAM_TOP_NO: '&7   .. не определено ..   '
+
+#Очереди:
+QUEUE_PARTY_RANKED: '&cНаходясь в группе, вы не можете играть в рейтинговый режим.'
+QUEUE_LEVEL_RANKED: '&cВы не можете играть на рейтинг, т.к. ваш уровень меньше &b5&c!'
+
+#Авторизация:
+AUTH_KICK_TIME_1: "&4Вы не успели войти в свой аккаунт, поэтому нам пришлось кикнуть вас :(\n"
+AUTH_KICK_TIME_2: "&4Пожалуйста, повторите попытку еще раз."
+AUTH_COMMAND_NOT: '&cВы можете использовать лишь команду &b/register &cили &b/login&c.'
+
+#Команды:
+COMMAND_NOT: '&cКоманда не найдена, используйте &b/help&c, чтобы посмотреть список доступных команд.'
+
+#Чат:
+CHAT_AFK: '&eСервер AFK - место ожидания, тишины и спокойствия.'
+CHAT_PROFILE_NICK_1: '&7Никнейм » &a%s\n'
+CHAT_PROFILE_NICK_2: '&7Группа » %s\n'
+CHAT_PROFILE_NICK_3: '&7Уровень » &a%d\n'
+CHAT_PROFILE_NICK_4: '&7Опыт » &a%d&7/&a%d\n'
+CHAT_PROFILE_NICK_5: '&7Уровень достижений » &a%d'
+
+#Отключение игроков:
+DEACTIVATION_PLAYERS: '&cВы можете включать или отключать показ игроков лишь раз в 10 секунд.'
+
+#Лобби / хаб:
+SERVER_ACCESS_ISRESTRICTED_LOADING: '&cДоступ к серверу ограничен: сервер загружается'
+SERVER_ACCESS_ISRESTRICTED_NICKNAME: '&cДоступ к серверу ограничен: на сервере уже находится игрок с таким же именем.'
+HUB_JOIN: '&7[&a+&7] %s &aзашел в хаб.'
+LOBBY_JOIN: '&7[&a+&7] %s &aзашел в лобби.'
+HUB_LEFT: '&7[&c-&7] %s &cвышел из хаба.'
+LOBBY_LEFT: '&7[&c-&7] %s &cвышел из лобби.'
+NETWORK_LEVELING_REWARDS_HUBMSG_1: '&c!!! &eУ вас есть неполученные награды &c!!!'
+NETWORK_LEVELING_REWARDS_HUBMSG_2: '&eЗаберите их в разделе &a"Награды за уровни"&e в своем профиле!'
+EVERYDAY_REWARD_HUBMSG: '&aУ &7[NPC] Гонец &aесть &b%d %s&a для тебя! Не забудь забрать :)'
+
+GIVE_ITEMS_COMPASS: '&aИгровой компас'
+GIVE_ITEMS_COMPASS_2:
+  - '&7Нажмите, чтобы открыть игровой'
+  - '&7компас и выбрать любимый режим.'
+GIVE_ITEMS_PROFILE: '&aМой профиль'
+GIVE_ITEMS_PROFILE_2:
+  - '&7Нажмите, чтобы открыть меню'
+  - '&7своего игрового профиля.'
