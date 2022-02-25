@@ -361,7 +361,7 @@ LOBBY_JOIN: "&7[&a+&7] %s &a has joined the lobby."
 HUB_LEFT: "&7[&c-&7] %s &cleft the hub."
 LOBBY_LEFT: "&7[&c-&7] %s &c has left the lobby."
 NETWORK_LEVELING_REWARDS_HUBMSG_1: "&c!!! &eYou have outstanding rewards &c!!!"
-NETWORK_LEVELING_REWARDS_HUBMSG_2: "&eCollect them from the &a"Level Rewards"&e section of your profile!"
+NETWORK_LEVELING_REWARDS_HUBMSG_2: "&eCollect them from the &a'Level Rewards'&e section of your profile!"
 EVERYDAY_REWARD_HUBMSG: "&aУ &7[NPC] Messenger &a has &b%d %s&a for you! Don't forget to pick it up :)"
 
 GIVE_ITEMS_COMPASS: "&aGame Compass"
