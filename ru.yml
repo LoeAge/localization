@@ -361,7 +361,7 @@ LOBBY_JOIN: "&7[&a+&7] %s &aзашел в лобби."
 HUB_LEFT: "&7[&c-&7] %s &cвышел из хаба."
 LOBBY_LEFT: "&7[&c-&7] %s &cвышел из лобби."
 NETWORK_LEVELING_REWARDS_HUBMSG_1: "&c!!! &eУ вас есть неполученные награды &c!!!"
-NETWORK_LEVELING_REWARDS_HUBMSG_2: "&eЗаберите их в разделе &a"Награды за уровни"&e в своем профиле!"
+NETWORK_LEVELING_REWARDS_HUBMSG_2: "&eЗаберите их в разделе &a'Награды за уровни'&e в своем профиле!"
 EVERYDAY_REWARD_HUBMSG: "&aУ &7[NPC] Гонец &aесть &b%d %s&a для тебя! Не забудь забрать :)"
 
 GIVE_ITEMS_COMPASS: "&aИгровой компас"
