@@ -5,612 +5,716 @@
 NAME: "LOEAGE"
 NAME_FORMAT: "LoeAge"
 SITE: "www.loeage.net"
-SITE_FORMAT: "  www.loeage.net  "
+SITE_FORMAT: "  www.loeage.net"
 
 #Префиксы
-SETTINGS: '&aНастройки'
-SKINS: '&aСкины'
-BUNGEE: '&cBungee'
-PARTY: '&aГруппа'
-QUEUES: '&aОчереди'
-STREAMS: '&aТрансляции'
-FRIENDS: '&aДрузья'
-NETWORK: '&cСеть'
-REPORTS: '&eЖалобы'
-COMMANDS: '&6Команды'
-BOOSTERS: '&aБустеры'
-ANTI-FLOOD: '&3&lГеркулес'
-DELIVERIES: '&aПосылки'
-INFORMATION: '&6Информация'
-INFRACTIONS: '&eМодерация'
-COLLECTIBLES: '&aКоллекция'
-NETWORK_LEVELING: '&aСерверный уровень'
-ERROR: '&cОшибка'
-PARKOUR: '&aПаркур'
-DROPPER: '&aДроппер'
-TUTORIAL: '&aОбучение'
-DISGUISE: '&aDisguise'
-COINS_CHANGER: 'Казначей'
+SETTINGS: "&aНастройки"
+SKINS: "&aСкины"
+BUNGEE: "&cBungee"
+PARTY: "&aГруппа"
+QUEUES: "&aОчереди"
+STREAMS: "&aТрансляции"
+FRIENDS: "&aДрузья"
+NETWORK: "&cСеть"
+REPORTS: "&eЖалобы"
+COMMANDS: "&6Команды"
+BOOSTERS: "&aБустеры"
+ANTI-FLOOD: "&3&lГеркулес"
+DELIVERIES: "&aПосылки"
+INFORMATION: "&6Информация"
+INFRACTIONS: "&eМодерация"
+COLLECTIBLES: "&aКоллекция"
+NETWORK_LEVELING: "&aСерверный уровень"
+ERROR: "&cОшибка"
+PARKOUR: "&aПаркур"
+DROPPER: "&aДроппер"
+TUTORIAL: "&aОбучение"
+DISGUISE: "&aДизгайс"
+COINS_CHANGER: "Казначей"
 
 #Ежедневные награды:
-EVERYDAY_REWARD_GUI: 'Ежедневные посылки'
-EVERYDAY_REWARD_CLAIM: '&eНажмите, чтобы получить посылку!'
-EVERYDAY_REWARD_CLAIM_REWARD: '&eПолучить посылку'
-EVERYDAY_REWARD_DONT_CLAIM_1: '&cВы не можете получить эту посылку!'
-EVERYDAY_REWARD_DONT_CLAIM_2: '&cНедоступная посылка'
-EVERYDAY_REWARD_ALREADY_1: '&aВы уже получили эту посылку!'
-EVERYDAY_REWARD_NEW_REWARD: '&7Новая посылка через: &b'
-EVERYDAY_REWARD_CLAIMING_1: '&aПосылка получена'
-EVERYDAY_REWARD_CLAIMING_2: '&eПриходи за новой посылкой завтра'
-EVERYDAY_REWARD_LOCKED: '&cВы не можете получить эту посылку!'
-EVERYDAY_REWARD_ALREADY_2: '&aВы уже получили эту посылку!'
+EVERYDAY_REWARD_GUI: "Ежедневные посылки"
+EVERYDAY_REWARD_CLAIM: "&eНажмите, чтобы получить посылку!"
+EVERYDAY_REWARD_CLAIM_REWARD: "&eПолучить посылку"
+EVERYDAY_REWARD_DONT_CLAIM_1: "&cВы не можете получить эту посылку!"
+EVERYDAY_REWARD_DONT_CLAIM_2: "&cНедоступная посылка"
+EVERYDAY_REWARD_ALREADY_1: "&aВы уже получили эту посылку!"
+EVERYDAY_REWARD_NEW_REWARD: "&7Новая посылка через: &b"
+EVERYDAY_REWARD_CLAIMING_1: "&aПосылка получена"
+EVERYDAY_REWARD_CLAIMING_2: "&eПриходи за новой посылкой завтра"
+EVERYDAY_REWARD_LOCKED: "&cВы не можете получить эту посылку!"
+EVERYDAY_REWARD_ALREADY_2: "&aВы уже получили эту посылку!"
 
 EVERYDAY_REWARD_1:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота'
-    - ''
-    - '&7Доступно для всех игроков проекта.'
+    - "&7Бесплатная ежедневная посылка:"
+    - " &6+75 золота"
+    - ""
+    - "&7Доступно для всех игроков проекта."
 EVERYDAY_REWARD_2:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6175 &7в сумме)'
-    - ''
-    - '&7Доступно для &9Hero &7и выше.'
+    - "&7Бесплатная ежедневная посылка:"
+    - " &6+75 золота &7(&6175 &7в сумме)"
+    - ""
+    - "&7Доступно для &9Hero &7и выше."
 EVERYDAY_REWARD_3:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6250 &7в сумме)'
-    - ''
-    - '&7Доступно для &6Lord &7и выше.'
+    - "&7Бесплатная ежедневная посылка:"
+    - " &6+75 золота &7(&6250 &7в сумме)"
+    - ""
+    - "&7Доступно для &6Lord &7и выше."
 EVERYDAY_REWARD_4:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6325 &7в сумме)'
-    - ''
-    - '&7Доступно для &bUltra &7и выше.'
+    - "&7Бесплатная ежедневная посылка:"
+    - " &6+75 золота &7(&6325 &7в сумме)"
+    - ""
+    - "&7Доступно для &bUltra &7и выше."
 EVERYDAY_REWARD_5:
-    - '&7Бесплатная ежедневная посылка:'
-    - ' &6+75 золота &7(&6400 &7в сумме)'
-    - ''
-    - '&7Доступно для &aElite &7и выше.'
+    - "&7Бесплатная ежедневная посылка:"
+    - " &6+75 золота &7(&6400 &7в сумме)"
+    - ""
+    - "&7Доступно для &aElite &7и выше."
 EVERYDAY_REWARD_6:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &6+75 золота &7(&6475 &7в сумме)'
-  - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &6+75 золота &7(&6475 &7в сумме)"
+  - ""
+  - "&7Доступно для &eLegend &7и выше."
 EVERYDAY_REWARD_7:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+1000 опыта'
-  - ''
-  - '&7Доступно всем игрокам проекта.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+1000 опыта"
+  - ""
+  - "&7Доступно всем игрокам проекта."
 EVERYDAY_REWARD_8:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91250 &7в сумме)'
-  - ''
-  - '&7Доступно для &9Hero &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&91250 &7в сумме)"
+  - ""
+  - "&7Доступно для &9Hero &7и выше."
 EVERYDAY_REWARD_9:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91500 &7в сумме)'
-  - ''
-  - '&7Доступно для &6Lord &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&91500 &7в сумме)"
+  - ""
+  - "&7Доступно для &6Lord &7и выше."
 EVERYDAY_REWARD_10:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&91750 &7в сумме)'
-  - ''
-  - '&7Доступно для &bUltra &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&91750 &7в сумме)"
+  - ""
+  - "&7Доступно для &bUltra &7и выше."
 EVERYDAY_REWARD_11:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92000 &7в сумме)'
-  - ''
-  - '&7Доступно для &aElite &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&92000 &7в сумме)"
+  - ""
+  - "&7Доступно для &aElite &7и выше."
 EVERYDAY_REWARD_12:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92250 &7в сумме)'
-  - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&92250 &7в сумме)"
+  - ""
+  - "&7Доступно для &eLegend &7и выше."
 EVERYDAY_REWARD_13:
-  - '&7Бесплатная ежедневная посылка:'
-  - ' &9+250 опыта &7(&92250 &7в сумме)'
-  - ''
-  - '&7Доступно для &eLegend &7и выше.'
+  - "&7Бесплатная ежедневная посылка:"
+  - " &9+250 опыта &7(&92250 &7в сумме)"
+  - ""
+  - "&7Доступно для &eLegend &7и выше."
 
 #Достижения:
-FIRST_JOIN_1: 'Добро пожаловать'
-FIRST_JOIN_2: 'Впервые зайдите на наш проект.'
-FIRST_MESSAGE_1: 'Любитель поговорить'
-FIRST_MESSAGE_2: 'Напишите свое первое сообщение.'
-FIRST_FRIEND_1: 'Дружба - это сила'
-FIRST_FRIEND_2: 'Подружитесь с одним из игроков.'
-FRIENDS_1: 'Друзья на все времена'
-FRIENDS_2: 'Добавьте в друзья 20 игроков.'
-FOREVER_ALONE_1: 'Forever Alone'
-FOREVER_ALONE_2: 'Скройте всех игроков в лобби.'
-HERO_1: 'Местный герой'
-HERO_2: 'Приобретите группу &9Hero&7 на проекте.'
-LORD_1: 'Лучший князь'
-LORD_2: 'Приобретите группу &6Lord&7 на проекте.'
-ULTRA_1: 'Очень важная персона'
-ULTRA_2: 'Приобретите группу &bUltra&7 на проекте.'
-ELITE_1: '.. all inclusive..'
-ELITE_2: 'Приобретите группу &aElite&7 на проекте.'
-YOUTUBE_1: 'Свет, камера, мотор, начали!'
-YOUTUBE_2: 'Получите группу Youtube на проекте.'
-COINS_KEEPER_1: 'Держатель казны'
-COINS_KEEPER_2: 'Держите на счету не менее %d золота.'
-EXPERIENCE_KEEPER_1: 'Хранитель опыта'
-EXPERIENCE_KEEPER_2: 'Получите %d серверный уровень.'
-BEST_PROJECT_1: 'Любимый проект'
-BEST_PROJECT_2: 'Выразите свою любовь к проекту.'
-HACKER_1: 'Прирожденный хацкер'
-HACKER_2: 'Найдите секретную команду.'
-ROAD_TO_HELL_1: 'Бездна'
-ROAD_TO_HELL_2: 'Упадите в пропасть на хабе проекта.'
-ROAD_TO_SPACE_1: 'Почти космонавт'
-ROAD_TO_SPACE_2: 'Попробуйте слетать в космос.'
-DID_IT_1: 'Автограф создателя'
-DID_IT_2: 'Стукните одного из владельцев проекта.'
-STAFF_1: 'Часть великолепной команды'
-STAFF_2: 'Станьте частью команды нашего проекта.'
-SKYWARS_KILLS_1: 'Небесный убийца'
-SKYWARS_KILLS_2: 'Совершите %d убийств.'
-SKYWARS_WINS_1: 'Чемпион поднебесья'
-SKYWARS_WINS_2: 'Победите в %d играх.'
-SKYWARS_CAGES_HOARDER_1: 'Коллекционер клеток'
-SKYWARS_CAGES_HOARDER_2: 'Разблокируйте %d клеток.'
-SKYWARS_HEADS_HOARDER_1: 'Коллекционер голов'
-SKYWARS_HEADS_HOARDER_2: 'Соберите %d голов с игроков.'
-SKYWARS_STARS_1: 'Звездная личность'
-SKYWARS_STARS_2: 'Получите %d уровень SkyWars.'
-SKYWARS_ANGELS_JOURNEY_1: 'Проклятое путешествие'
-SKYWARS_ANGELS_JOURNEY_2: 'Пожертвуйте монеты в пользу Ангела Смерти 12 раз.'
-SKYWARS_DRAGON_1: 'Дракон Края'
-SKYWARS_DRAGON_2: 'Дождитесь появления драконов на карте.'
-SKYWARS_GOLDEN_APPLE_1: 'Золотое яблочко'
-SKYWARS_GOLDEN_APPLE_2: 'Съешьте золотое яблоко.'
-SKYWARS_GOTCHA_1: 'Нереальное везение'
-SKYWARS_GOTCHA_2: 'Совершите убийство, когда у вас осталось меньше 1-го сердечка.'
-SKYWARS_KILL_STOLEN_1: 'Ассистент'
-SKYWARS_KILL_STOLEN_2: 'Совершите 5 ассистов в одиночной игре.'
-SKYWARS_LEGENDARY_1: 'Легендарный'
-SKYWARS_LEGENDARY_2: 'Получите либо купите любой легендарный косметический предмет.'
-SKYWARS_MAX_PERK_1: 'На максималках'
-SKYWARS_MAX_PERK_2: 'Прокачайте любой из перков до 5 уровня.'
-SKYWARS_FULL_SOULS_WELL_1: 'Коллеционер душ'
-SKYWARS_FULL_SOULS_WELL_2: 'Заполните хранилище душ.'
-SKYWARS_NO_CHEST_CHALLENGE_1: 'ПРО-фессионал'
-SKYWARS_NO_CHEST_CHALLENGE_2: 'Победите игру, не открыв ни одного сундука.'
-SKYWARS_ENCHANTED_1: 'Зачарованный'
-SKYWARS_ENCHANTED_2: 'Зачаруйте алмазный меч.'
-SKYWARS_PEACEMAKER_1: 'Миротворец'
-SKYWARS_PEACEMAKER_2: 'Победите игру, не сделав ни одного убийства.'
-SKYWARS_SHINY_STAFF_1: 'Блестящие доспехи'
-SKYWARS_SHINY_STAFF_2: 'Наденьте сет алмазной брони.'
-SKYWARS_FAST_AND_FURIOUS_1: 'Свирепый убийца'
-SKYWARS_FAST_AND_FURIOUS_2: 'Совершите убийство в первые 10 секунд игры.'
-SKYWARS_SNIPER_1: 'Лучник'
-SKYWARS_SNIPER_2: 'Совершите 30 попаданий из лука за одну игру.'
-SKYWARS_SUPER_KILLER_1: 'Чудовище на небесах'
-SKYWARS_SUPER_KILLER_2: 'Совершите 8 убийств за игру.'
-SKYWARS_SPEED_RUN_1: 'Соник'
-SKYWARS_SPEED_RUN_2: 'Победите в рейтинговой игре за 1 минуту.'
-SKYWARS_OPEN_CHEST_1: '3; 2; 1; Начали!'
-SKYWARS_OPEN_CHEST_2: 'Первым откройте сундук на карте.'
-SKYWARS_CORRUPTION_LORD_1: 'Проклятый лорд'
-SKYWARS_CORRUPTION_LORD_2: 'Победите в проклятой игре.'
-SKYWARS_PORTAL_GAME_1: 'Игра телепортов?'
-SKYWARS_PORTAL_GAME_2: 'Держите в своем инвентаре стак эндерперлов.'
-SKYWARS_MOB_SPAWNER_1: 'Прислужник'
-SKYWARS_MOB_SPAWNER_2: 'Призовите скелета-прислужника.'
-SKYWARS_SOLD_YOUR_SOUL_1: 'Проклятая сделка'
-SKYWARS_SOLD_YOUR_SOUL_2: 'Совершите свое первое пожертвование монет в пользу Ангела Смерти.'
-SKYWARS_WELL_DESERVED_1: 'Отличная подготовка'
-SKYWARS_WELL_DESERVED_2: 'Получите награду за рейтинговую игру.'
-SKYWARS_WELL_WELL_1: 'Колодец Душ'
-SKYWARS_WELL_WELL_2: 'Воспользуйтесь колодцем душ.'
+FIRST_JOIN_1: "Добро пожаловать"
+FIRST_JOIN_2: "Впервые зайдите на наш проект."
+FIRST_MESSAGE_1: "Любитель поговорить"
+FIRST_MESSAGE_2: "Напишите свое первое сообщение."
+FIRST_FRIEND_1: "Дружба - это сила"
+FIRST_FRIEND_2: "Подружитесь с одним из игроков."
+FRIENDS_1: "Друзья на все времена"
+FRIENDS_2: "Добавьте в друзья 20 игроков."
+FOREVER_ALONE_1: "Forever Alone"
+FOREVER_ALONE_2: "Скройте всех игроков в лобби."
+HERO_1: "Местный герой"
+HERO_2: "Приобретите группу &9Hero&7 на проекте."
+LORD_1: "Лучший князь"
+LORD_2: "Приобретите группу &6Lord&7 на проекте."
+ULTRA_1: "Очень важная персона"
+ULTRA_2: "Приобретите группу &bUltra&7 на проекте."
+ELITE_1: ".. all inclusive.."
+ELITE_2: "Приобретите группу &aElite&7 на проекте."
+YOUTUBE_1: "Свет, камера, мотор, начали!"
+YOUTUBE_2: "Получите группу Youtube на проекте."
+COINS_KEEPER_1: "Держатель казны"
+COINS_KEEPER_2: "Держите на счету не менее %d золота."
+EXPERIENCE_KEEPER_1: "Хранитель опыта"
+EXPERIENCE_KEEPER_2: "Получите %d серверный уровень."
+BEST_PROJECT_1: "Любимый проект"
+BEST_PROJECT_2: "Выразите свою любовь к проекту."
+HACKER_1: "Прирожденный хацкер"
+HACKER_2: "Найдите секретную команду."
+ROAD_TO_HELL_1: "Бездна"
+ROAD_TO_HELL_2: "Упадите в пропасть на хабе проекта."
+ROAD_TO_SPACE_1: "Почти космонавт"
+ROAD_TO_SPACE_2: "Попробуйте слетать в космос."
+DID_IT_1: "Автограф создателя"
+DID_IT_2: "Стукните одного из владельцев проекта."
+STAFF_1: "Часть великолепной команды"
+STAFF_2: "Станьте частью команды нашего проекта."
+SKYWARS_KILLS_1: "Небесный убийца"
+SKYWARS_KILLS_2: "Совершите %d убийств."
+SKYWARS_WINS_1: "Чемпион поднебесья"
+SKYWARS_WINS_2: "Победите в %d играх."
+SKYWARS_CAGES_HOARDER_1: "Коллекционер клеток"
+SKYWARS_CAGES_HOARDER_2: "Разблокируйте %d клеток."
+SKYWARS_HEADS_HOARDER_1: "Коллекционер голов"
+SKYWARS_HEADS_HOARDER_2: "Соберите %d голов с игроков."
+SKYWARS_STARS_1: "Звездная личность"
+SKYWARS_STARS_2: "Получите %d уровень SkyWars."
+SKYWARS_ANGELS_JOURNEY_1: "Проклятое путешествие"
+SKYWARS_ANGELS_JOURNEY_2: "Пожертвуйте монеты в пользу Ангела Смерти 12 раз."
+SKYWARS_DRAGON_1: "Дракон Края"
+SKYWARS_DRAGON_2: "Дождитесь появления драконов на карте."
+SKYWARS_GOLDEN_APPLE_1: "Золотое яблочко"
+SKYWARS_GOLDEN_APPLE_2: "Съешьте золотое яблоко."
+SKYWARS_GOTCHA_1: "Нереальное везение"
+SKYWARS_GOTCHA_2: "Совершите убийство, когда у вас осталось меньше 1-го сердечка."
+SKYWARS_KILL_STOLEN_1: "Ассистент"
+SKYWARS_KILL_STOLEN_2: "Совершите 5 ассистов в одиночной игре."
+SKYWARS_LEGENDARY_1: "Легендарный"
+SKYWARS_LEGENDARY_2: "Получите либо купите любой легендарный косметический предмет."
+SKYWARS_MAX_PERK_1: "На максималках"
+SKYWARS_MAX_PERK_2: "Прокачайте любой из перков до 5 уровня."
+SKYWARS_FULL_SOULS_WELL_1: "Коллеционер душ"
+SKYWARS_FULL_SOULS_WELL_2: "Заполните хранилище душ."
+SKYWARS_NO_CHEST_CHALLENGE_1: "ПРО-фессионал"
+SKYWARS_NO_CHEST_CHALLENGE_2: "Победите игру, не открыв ни одного сундука."
+SKYWARS_ENCHANTED_1: "Зачарованный"
+SKYWARS_ENCHANTED_2: "Зачаруйте алмазный меч."
+SKYWARS_PEACEMAKER_1: "Миротворец"
+SKYWARS_PEACEMAKER_2: "Победите игру, не сделав ни одного убийства."
+SKYWARS_SHINY_STAFF_1: "Блестящие доспехи"
+SKYWARS_SHINY_STAFF_2: "Наденьте сет алмазной брони."
+SKYWARS_FAST_AND_FURIOUS_1: "Свирепый убийца"
+SKYWARS_FAST_AND_FURIOUS_2: "Совершите убийство в первые 10 секунд игры."
+SKYWARS_SNIPER_1: "Лучник"
+SKYWARS_SNIPER_2: "Совершите 30 попаданий из лука за одну игру."
+SKYWARS_SUPER_KILLER_1: "Чудовище на небесах"
+SKYWARS_SUPER_KILLER_2: "Совершите 8 убийств за игру."
+SKYWARS_SPEED_RUN_1: "Соник"
+SKYWARS_SPEED_RUN_2: "Победите в рейтинговой игре за 1 минуту."
+SKYWARS_OPEN_CHEST_1: "3; 2; 1; Начали!"
+SKYWARS_OPEN_CHEST_2: "Первым откройте сундук на карте."
+SKYWARS_CORRUPTION_LORD_1: "Проклятый лорд"
+SKYWARS_CORRUPTION_LORD_2: "Победите в проклятой игре."
+SKYWARS_PORTAL_GAME_1: "Игра телепортов?"
+SKYWARS_PORTAL_GAME_2: "Держите в своем инвентаре стак эндерперлов."
+SKYWARS_MOB_SPAWNER_1: "Прислужник"
+SKYWARS_MOB_SPAWNER_2: "Призовите скелета-прислужника."
+SKYWARS_SOLD_YOUR_SOUL_1: "Проклятая сделка"
+SKYWARS_SOLD_YOUR_SOUL_2: "Совершите свое первое пожертвование монет в пользу Ангела Смерти."
+SKYWARS_WELL_DESERVED_1: "Отличная подготовка"
+SKYWARS_WELL_DESERVED_2: "Получите награду за рейтинговую игру."
+SKYWARS_WELL_WELL_1: "Колодец Душ"
+SKYWARS_WELL_WELL_2: "Воспользуйтесь колодцем душ."
 
-Achivement_Title: 'Достижения'
-Global_Achivement: 'Глобальные достижения'
-Secret_Achivement: 'Секретные достижения'
-SkyWars_Achivement: 'SkyWars достижения'
-Achivement_unlocked: '&7Разблокировано: &a%d/%d &7(%d%%)'
-Achivement_menu_open: '&eНажмите, чтобы открыть меню!'
-Achivement_GUI_back: 'Вернуться назад'
-Achivement_GUI_page: ' (Стр. %d/%d)'
-Achivement_GUI_already: '&7Выполнено: %s'
-Achivement_GUI_already2: '&aВы выполнили это достижение!'
-Achivement_GUI_level_achivements: '&7Уровень достижения: &a%d &7из &a%d'
-Achivement_GUI_reward: '&7Награда за выполнение:'
-Achivement_GUI_reward2: '&f- &9%d серверного опыта'
-Achivement_GUI_do: '&eВы выполняете это достижение!'
-Achivement_GUI_level_achivement: '&7Уровней достижения: &a%d'
-Achivement_GUI_not_do: '&cДостижение еще не выполнено!'
-Achivement_GUI_secret: '&8&l???'
-Achivement_GUI_page2: ' страница'
-Achivement_GUI_info: 'Информация'
+Achivement_Title: "Достижения"
+Global_Achivement: "Глобальные достижения"
+Secret_Achivement: "Секретные достижения"
+SkyWars_Achivement: "SkyWars достижения"
+Achivement_unlocked: "&7Разблокировано: &a%d/%d &7(%d%%)"
+Achivement_menu_open: "&eНажмите, чтобы открыть меню!"
+Achivement_GUI_back: "Вернуться назад"
+Achivement_GUI_page: " (Стр. %d/%d)"
+Achivement_GUI_already: "&7Выполнено: %s"
+Achivement_GUI_already2: "&aВы выполнили это достижение!"
+Achivement_GUI_level_achivements: "&7Уровень достижения: &a%d &7из &a%d"
+Achivement_GUI_reward: "&7Награда за выполнение:"
+Achivement_GUI_reward2: "&f- &9%d серверного опыта"
+Achivement_GUI_do: "&eВы выполняете это достижение!"
+Achivement_GUI_level_achivement: "&7Уровней достижения: &a%d"
+Achivement_GUI_not_do: "&cДостижение еще не выполнено!"
+Achivement_GUI_secret: "&8&l???"
+Achivement_GUI_page2: " страница"
+Achivement_GUI_info: "Информация"
 Achivement_GUI_info2:
-  - '&7Достижения - это вид поощрения, которые вы можете'
-  - '&7получить, играя на серверах нашего проекта.'
-  - ''
-  - '&7Все достижения разбиты на категории для удобства.'
-  - '&7Некоторые из достижений открываются очень легко,'
-  - '&7а некоторые действительно сложны в получении.'
-  - ''
-  - '&7Играйте на нашем проекте, и однажды вы сможете'
-  - '&7разблокировать абсолютно все.'
-  - ''
-  - '&7Наведите курсор на различные достижения, чтобы'
-  - '&7узнать больше о типе и наградах, которые они дают.'
-Achivement_GUI_description: '&7В этой категории представлены'
-Achivement_GUI_description_Global_1: '&7все глобальные достижения проекта.'
-Achivement_GUI_description_SkyWars_1: '&7все SkyWars достижения проекта.'
-Achivement_GUI_description_Secret_1: '&7все секретные достижения проекта.'
-Achivement_GUI_description_Secret_2: '&7&oЭти достижения получить непросто'
-Achivement_GUI_description_Secret_3: '&7&oили даже практически невозможно..'
-Achivement_on_unlock1: '&a&lПолучено достижение:'
-Achivement_on_unlock2: '&b&l%s &7(Уровень %d)'
-Achivement_on_unlock3: '&9+%d серверного опыта'
+  - "&7Достижения - это вид поощрения, которые вы можете"
+  - "&7получить, играя на серверах нашего проекта."
+  - ""
+  - "&7Все достижения разбиты на категории для удобства."
+  - "&7Некоторые из достижений открываются очень легко,"
+  - "&7а некоторые действительно сложны в получении."
+  - ""
+  - "&7Играйте на нашем проекте, и однажды вы сможете"
+  - "&7разблокировать абсолютно все."
+  - ""
+  - "&7Наведите курсор на различные достижения, чтобы"
+  - "&7узнать больше о типе и наградах, которые они дают."
+Achivement_GUI_description: "&7В этой категории представлены"
+Achivement_GUI_description_Global_1: "&7все глобальные достижения проекта."
+Achivement_GUI_description_SkyWars_1: "&7все SkyWars достижения проекта."
+Achivement_GUI_description_Secret_1: "&7все секретные достижения проекта."
+Achivement_GUI_description_Secret_2: "&7&oЭти достижения получить непросто"
+Achivement_GUI_description_Secret_3: "&7&oили даже практически невозможно.."
+Achivement_on_unlock1: "&a&lПолучено достижение:"
+Achivement_on_unlock2: "&b&l%s &7(Уровень %d)"
+Achivement_on_unlock3: "&9+%d серверного опыта"
 
 #Бустеры:
-BOOSTERS_GUI_TITLE: 'Персональные множители'
-BOOSTERS_ALREADY: '&cУ вас уже активирован один из персональных множителей!'
-BOOSTERS_NOT: '&cУ вас нет выбранного множителя, возможно, что-то пошло не так..'
-BOOSTERS_BOOST: '&aМножитель &bx%s &aна &b%s'
-BOOSTERS_CLICK_TO_ACTIVE: '&aНажмите, чтобы активировать!'
-BOOSTERS_ACTIVE: '&aВы активировали дополнительный множитель &bx%s &aна &b%s&a!'
+BOOSTERS_GUI_TITLE: "Персональные множители"
+BOOSTERS_ALREADY: "&cУ вас уже активирован один из персональных множителей!"
+BOOSTERS_NOT: "&cУ вас нет выбранного множителя, возможно, что-то пошло не так.."
+BOOSTERS_BOOST: "&aМножитель &bx%s &aна &b%s"
+BOOSTERS_CLICK_TO_ACTIVE: "&aНажмите, чтобы активировать!"
+BOOSTERS_ACTIVE: "&aВы активировали дополнительный множитель &bx%s &aна &b%s&a!"
 
 #Золото:
-GOLD_NAME_UNO: 'золото'
-GOLD_NAME_DUE: 'золота'
-GOLD_NAME_ANOTHER: 'золота'
+GOLD_NAME_UNO: "золото"
+GOLD_NAME_DUE: "золота"
+GOLD_NAME_ANOTHER: "золота"
 
 #Hub ScoreBoard:
-HUB_SCOREBOARD_GROUP: 'Группа: '
-HUB_SCOREBOARD_LEVEL: 'Уровень: '
-HUB_SCOREBOARD_EXP: 'Опыт: '
-HUB_SCOREBOARD_LEVEL_ACHIVEMENT: 'Ур. достижений: '
-HUB_SCOREBOARD_ONLINE: 'Онлайн проекта: '
-HUB_SCOREBOARD_GOLD: 'Золото: '
-HUB_SCOREBOARD_LOADING: 'Загрузка...'
+HUB_SCOREBOARD_GROUP: "Группа: "
+HUB_SCOREBOARD_LEVEL: "Уровень: "
+HUB_SCOREBOARD_EXP: "Опыт: "
+HUB_SCOREBOARD_LEVEL_ACHIVEMENT: "Ур. достижений: "
+HUB_SCOREBOARD_ONLINE: "Онлайн проекта: "
+HUB_SCOREBOARD_GOLD: "Золото: "
+HUB_SCOREBOARD_LOADING: "Загрузка..."
 
 #NPC:
-COINS_CHANGER_NPC: 'Казначей'
-COINS_CHANGER_GUI_NAME: 'Обмен валют'
-COINS_CHANGER_GUI_COINS_TO_GOLD_1: 'Обменять монеты на золото'
+COINS_CHANGER_NPC: "Казначей"
+COINS_CHANGER_GUI_NAME: "Обмен валют"
+COINS_CHANGER_GUI_COINS_TO_GOLD_1: "Обменять монеты на золото"
 COINS_CHANGER_GUI_COINS_TO_GOLD_2:
-  - '&7Нажмите, чтобы обменять монеты'
-  - '&7этого режима на золото.'
-COINS_CHANGER_GUI_GOLD_TO_COINS_1: 'Обменять золото на монеты'
+  - "&7Нажмите, чтобы обменять монеты"
+  - "&7этого режима на золото."
+COINS_CHANGER_GUI_GOLD_TO_COINS_1: "Обменять золото на монеты"
 COINS_CHANGER_GUI_GOLD_TO_COINS_2:
-  - '&7Нажмите, чтобы обменять золото'
-  - '&7на монеты этого режима.'
-COINS_CHANGER_GUI_TO_GOLD: '&6%d золота'
-COINS_CHANGER_GUI_TO_COINS: '&7%d монет'
-COINS_CHANGER_GUI_COINS_TO_GOLD_3: '&7Нажмите, чтобы обменять &b%d &7монет на &b%d &7золота.'
-COINS_CHANGER_GUI_GOLD_TO_COINS_3: '&7Нажмите, чтобы обменять &b%d &7золота на &b%d &7монет.'
-COINS_CHANGER_GUI_COINS_TO_GOLD_4: '&cУ вас недостаточно монет для совершения'
-COINS_CHANGER_GUI_GOLD_TO_COINS_4: '&cУ вас недостаточно золота для совершения'
-COINS_CHANGER_GUI_COINS_TO_GOLD_5: '&cэтого обмена (необходимо &7%d монет&c).'
-COINS_CHANGER_GUI_GOLD_TO_COINS_5: '&cэтого обмена (необходимо &6%d золота&c).'
-COINS_CHANGER_GUI_COINS_TO_GOLD_6: '&cНедостаточно монет для совершения обмена (необходимо &7%d монет&c).'
-COINS_CHANGER_GUI_GOLD_TO_COINS_6: '&cНедостаточно золота для совершения обмена (необходимо &6%d золота&c).'
-COINS_CHANGER_GUI_COINS_TO_GOLD_7: '&cНедостаточно монет для совершения обмена. Не пытаетесь ли вы обмануть систему?'
-COINS_CHANGER_GUI_GOLD_TO_COINS_7: '&cНедостаточно золота для совершения обмена. Не пытаетесь ли вы обмануть систему?'
-COINS_CHANGER_GUI_SUCCESSFUL: '&aОбмен успешно совершен!'
-COINS_CHANGER_GUI_ACCEPT_1: 'Подтверждение обмена'
-COINS_CHANGER_GUI_ACCEPT_2: 'Подтвердить обмен'
-COINS_CHANGER_GUI_ACCEPT_3: '&7Нажмите, чтобы подтвердить этот обмен!'
-COINS_CHANGER_GUI_DENY_1: '&cОтменить обмен'
-COINS_CHANGER_GUI_DENY_2: '&7Нажмите, чтобы отменить этот обмен!'
+  - "&7Нажмите, чтобы обменять золото"
+  - "&7на монеты этого режима."
+COINS_CHANGER_GUI_TO_GOLD: "&6%d золота"
+COINS_CHANGER_GUI_TO_COINS: "&7%d монет"
+COINS_CHANGER_GUI_COINS_TO_GOLD_3: "&7Нажмите, чтобы обменять &b%d &7монет на &b%d &7золота."
+COINS_CHANGER_GUI_GOLD_TO_COINS_3: "&7Нажмите, чтобы обменять &b%d &7золота на &b%d &7монет."
+COINS_CHANGER_GUI_COINS_TO_GOLD_4: "&cУ вас недостаточно монет для совершения"
+COINS_CHANGER_GUI_GOLD_TO_COINS_4: "&cУ вас недостаточно золота для совершения"
+COINS_CHANGER_GUI_COINS_TO_GOLD_5: "&cэтого обмена (необходимо &7%d монет&c)."
+COINS_CHANGER_GUI_GOLD_TO_COINS_5: "&cэтого обмена (необходимо &6%d золота&c)."
+COINS_CHANGER_GUI_COINS_TO_GOLD_6: "&cНедостаточно монет для совершения обмена (необходимо &7%d монет&c)."
+COINS_CHANGER_GUI_GOLD_TO_COINS_6: "&cНедостаточно золота для совершения обмена (необходимо &6%d золота&c)."
+COINS_CHANGER_GUI_COINS_TO_GOLD_7: "&cНедостаточно монет для совершения обмена. Не пытаетесь ли вы обмануть систему?"
+COINS_CHANGER_GUI_GOLD_TO_COINS_7: "&cНедостаточно золота для совершения обмена. Не пытаетесь ли вы обмануть систему?"
+COINS_CHANGER_GUI_SUCCESSFUL: "&aОбмен успешно совершен!"
+COINS_CHANGER_GUI_ACCEPT_1: "Подтверждение обмена"
+COINS_CHANGER_GUI_ACCEPT_2: "Подтвердить обмен"
+COINS_CHANGER_GUI_ACCEPT_3: "&7Нажмите, чтобы подтвердить этот обмен!"
+COINS_CHANGER_GUI_DENY_1: "&cОтменить обмен"
+COINS_CHANGER_GUI_DENY_2: "&7Нажмите, чтобы отменить этот обмен!"
 
-AWAITING_NPC_NAME: 'Ждун'
-AWAITING_NPC_MSG: '&cА это пока что в разработке :('
+AWAITING_NPC_NAME: "Ждун"
+AWAITING_NPC_MSG: "&cА это пока что в разработке :("
 
-CONNECTOR_NPC_CONNECT: '&eНажмите, чтобы подключиться'
-CONNECTOR_NPC_QUEUE_1: '&e&lНАЖМИТЕ ДЛЯ НАЧАЛА ИГРЫ'
-CONNECTOR_NPC_QUEUE_2: '&aВстать в очередь'
-CONNECTOR_NPC_QUEUE_3: '&cПокинуть очередь'
+CONNECTOR_NPC_CONNECT: "&eНажмите, чтобы подключиться"
+CONNECTOR_NPC_QUEUE_1: "&e&lНАЖМИТЕ ДЛЯ НАЧАЛА ИГРЫ"
+CONNECTOR_NPC_QUEUE_2: "&aВстать в очередь"
+CONNECTOR_NPC_QUEUE_3: "&cПокинуть очередь"
 
-EVERYDAY_REWARD_NPC_NAME: 'Гонец'
-EVERYDAY_REWARD_NPC_HOLOGRAM_1: '&cУ вас нет ни одной посылки'
-EVERYDAY_REWARD_NPC_HOLOGRAM_2: '&eУ вас есть &b%d &e%s'
-EVERYDAY_REWARD_NPC_HOLOGRAM_3: '&6Ваши ежедневные посылки'
-EVERYDAY_REWARD_NPC_UNO: 'посылка'
-EVERYDAY_REWARD_NPC_DUO: 'посылки'
-EVERYDAY_REWARD_NPC_ANOTHER: 'посылок'
+EVERYDAY_REWARD_NPC_NAME: "Гонец"
+EVERYDAY_REWARD_NPC_HOLOGRAM_1: "&cУ вас нет ни одной посылки"
+EVERYDAY_REWARD_NPC_HOLOGRAM_2: "&eУ вас есть &b%d &e%s"
+EVERYDAY_REWARD_NPC_HOLOGRAM_3: "&6Ваши ежедневные посылки"
+EVERYDAY_REWARD_NPC_UNO: "посылка"
+EVERYDAY_REWARD_NPC_DUO: "посылки"
+EVERYDAY_REWARD_NPC_ANOTHER: "посылок"
 
-LEADERBOARD_NPC_NAME: 'Место #%d'
+LEADERBOARD_NPC_NAME: "Место #%d"
 
 #Голограмы:
-LEADERBOARD_HOLOGRAM_TOP: '&b&lСписок 10-ти лучших игроков'
-LEADERBOARD_HOLOGRAM_TOP_NO: '&7   .. не определено ..   '
+LEADERBOARD_HOLOGRAM_TOP: "&b&lСписок 10-ти лучших игроков"
+LEADERBOARD_HOLOGRAM_TOP_NO: "&7   .. не определено ..   "
 
 #Очереди:
-QUEUE_PARTY_RANKED: '&cНаходясь в группе, вы не можете играть в рейтинговый режим.'
-QUEUE_LEVEL_RANKED: '&cВы не можете играть на рейтинг, т.к. ваш уровень меньше &b5&c!'
+QUEUE_PARTY_RANKED: "&cНаходясь в группе, вы не можете играть в рейтинговый режим."
+QUEUE_LEVEL_RANKED: "&cВы не можете играть на рейтинг, т.к. ваш уровень меньше &b5&c!"
 
 #Авторизация:
 AUTH_KICK_TIME_1: "&4Вы не успели войти в свой аккаунт, поэтому нам пришлось кикнуть вас :(\n"
 AUTH_KICK_TIME_2: "&4Пожалуйста, повторите попытку еще раз."
-AUTH_COMMAND_NOT: '&cВы можете использовать лишь команду &b/register &cили &b/login&c.'
+AUTH_COMMAND_NOT: "&cВы можете использовать лишь команду &b/register &cили &b/login&c."
 
 #Команды:
-COMMAND_NOT: '&cКоманда не найдена, используйте &b/help&c, чтобы посмотреть список доступных команд.'
-COMMAND_PLAYER_OFFLINE: '&cУказанный игрок не в сети.'
-COMMAND_PLAYER_UNREG: '&cУказанный игрок никогда прежде не играл на проекте.'
-COMMAND_PLAYER_DONTPERMS: '&cВы не можете использовать эту команду на указанном игроке.'
-COMMAND_ARGS_1: '&cНедостаточно аргументов для исполнения команды.'
-COMMAND_ARGS_2: '&cНедостаточно аргументов для исполнения команды: %s'
-COMMAND_PERMS_1: '&4Недостаточно прав для исполнения команды: &c%s&4.'
-COMMAND_PERMS_2: '&4Недостаточно прав для исполнения команды: &cдля исполнения команды необходима группа %s &cили выше&4.'
-COMMAND_ERROR: '&cПроизошла ошибка во время исполнения команды: &e%s&c.'
-COMMAND_COREERROR: '&cОтсутствует подключение к главному синхронизирующему серверу.'
+COMMAND_NOT: "&cКоманда не найдена, используйте &b/help&c, чтобы посмотреть список доступных команд."
+COMMAND_PLAYER_OFFLINE: "&cУказанный игрок не в сети."
+COMMAND_PLAYER_UNREG: "&cУказанный игрок никогда прежде не играл на проекте."
+COMMAND_PLAYER_DONTPERMS: "&cВы не можете использовать эту команду на указанном игроке."
+COMMAND_ARGS_1: "&cНедостаточно аргументов для исполнения команды."
+COMMAND_ARGS_2: "&cНедостаточно аргументов для исполнения команды: %s"
+COMMAND_PERMS_1: "&4Недостаточно прав для исполнения команды: &c%s&4."
+COMMAND_PERMS_2: "&4Недостаточно прав для исполнения команды: &cдля исполнения команды необходима группа %s &cили выше&4."
+COMMAND_ERROR: "&cПроизошла ошибка во время исполнения команды: &e%s&c."
+COMMAND_COREERROR: "&cОтсутствует подключение к главному синхронизирующему серверу."
 
 #Чат:
-CHAT_AFK: '&eСервер AFK - место ожидания, тишины и спокойствия.'
-CHAT_PROFILE_NICK_1: '&7Никнейм » &a%s\n'
-CHAT_PROFILE_NICK_2: '&7Группа » %s\n'
-CHAT_PROFILE_NICK_3: '&7Уровень » &a%d\n'
-CHAT_PROFILE_NICK_4: '&7Опыт » &a%d&7/&a%d\n'
-CHAT_PROFILE_NICK_5: '&7Уровень достижений » &a%d'
+CHAT_AFK: "&eСервер AFK - место ожидания, тишины и спокойствия."
+CHAT_PROFILE_NICK_1: "&7Никнейм » &a%s"
+CHAT_PROFILE_NICK_2: "&7Группа » %s"
+CHAT_PROFILE_NICK_3: "&7Уровень » &a%d"
+CHAT_PROFILE_NICK_4: "&7Опыт » &a%d&7/&a%d"
+CHAT_PROFILE_NICK_5: "&7Уровень достижений » &a%d"
 
 #Отключение игроков:
-DEACTIVATION_PLAYERS: '&cВы можете включать или отключать показ игроков лишь раз в 10 секунд.'
+DEACTIVATION_PLAYERS: "&cВы можете включать или отключать показ игроков лишь раз в 10 секунд."
 
 #Лобби / хаб:
-SERVER_ACCESS_ISRESTRICTED_LOADING: '&cДоступ к серверу ограничен: сервер загружается'
-SERVER_ACCESS_ISRESTRICTED_NICKNAME: '&cДоступ к серверу ограничен: на сервере уже находится игрок с таким же именем.'
-HUB_JOIN: '&7[&a+&7] %s &aзашел в хаб.'
-LOBBY_JOIN: '&7[&a+&7] %s &aзашел в лобби.'
-HUB_LEFT: '&7[&c-&7] %s &cвышел из хаба.'
-LOBBY_LEFT: '&7[&c-&7] %s &cвышел из лобби.'
-NETWORK_LEVELING_REWARDS_HUBMSG_1: '&c!!! &eУ вас есть неполученные награды &c!!!'
-NETWORK_LEVELING_REWARDS_HUBMSG_2: '&eЗаберите их в разделе &a"Награды за уровни"&e в своем профиле!'
-EVERYDAY_REWARD_HUBMSG: '&aУ &7[NPC] Гонец &aесть &b%d %s&a для тебя! Не забудь забрать :)'
+SERVER_ACCESS_ISRESTRICTED_LOADING: "&cДоступ к серверу ограничен: сервер загружается"
+SERVER_ACCESS_ISRESTRICTED_NICKNAME: "&cДоступ к серверу ограничен: на сервере уже находится игрок с таким же именем."
+HUB_JOIN: "&7[&a+&7] %s &aзашел в хаб."
+LOBBY_JOIN: "&7[&a+&7] %s &aзашел в лобби."
+HUB_LEFT: "&7[&c-&7] %s &cвышел из хаба."
+LOBBY_LEFT: "&7[&c-&7] %s &cвышел из лобби."
+NETWORK_LEVELING_REWARDS_HUBMSG_1: "&c!!! &eУ вас есть неполученные награды &c!!!"
+NETWORK_LEVELING_REWARDS_HUBMSG_2: "&eЗаберите их в разделе &a"Награды за уровни"&e в своем профиле!"
+EVERYDAY_REWARD_HUBMSG: "&aУ &7[NPC] Гонец &aесть &b%d %s&a для тебя! Не забудь забрать :)"
 
-GIVE_ITEMS_COMPASS: '&aИгровой компас'
+GIVE_ITEMS_COMPASS: "&aИгровой компас"
 GIVE_ITEMS_COMPASS_2:
-  - '&7Нажмите, чтобы открыть игровой'
-  - '&7компас и выбрать любимый режим.'
-GIVE_ITEMS_PROFILE: '&aМой профиль'
+  - "&7Нажмите, чтобы открыть игровой"
+  - "&7компас и выбрать любимый режим."
+GIVE_ITEMS_PROFILE: "&aМой профиль"
 GIVE_ITEMS_PROFILE_2:
-  - '&7Нажмите, чтобы открыть меню'
-  - '&7своего игрового профиля.'
-GIVE_ITEMS_LOBBIES: '&aВыбор лобби'
+  - "&7Нажмите, чтобы открыть меню"
+  - "&7своего игрового профиля."
+GIVE_ITEMS_LOBBIES: "&aВыбор лобби"
 GIVE_ITEMS_LOBBIES_2:
-  - '&7Нажмите, чтобы сменить'
-  - '&7текущий хаб или лобби.'
-GIVE_ITEMS_PLAYERS_1: '&aВключить игроков'
-GIVE_ITEMS_PLAYERS_2: '&cВыключить игроков'
+  - "&7Нажмите, чтобы сменить"
+  - "&7текущий хаб или лобби."
+GIVE_ITEMS_PLAYERS_1: "&aВключить игроков"
+GIVE_ITEMS_PLAYERS_2: "&cВыключить игроков"
 
 #Друзья
-FRIENDS_NO_HAVE: '&cУ вас нет ни одного друга :('
-FRIENDS_CMD_LIST: '&eСписок ваших друзей (стр. %d/%d)'
-FRIENDS_CMD_WHERE: '&f- %s&7 находится на сервере &b%s&7.'
-FRIENDS_CMD_WHERE2: '&f- %s&c не в сети.'
-FRIENDS_CMD_INVITE_PARTY: '&7&oНажмите, чтобы отправить приглашение в группу.'
-FRIENDS_GUI_LIST: 'Мои друзья (Стр. %d/%d)'
-FRIENDS_GUI_NO_HAVE: '&7Пока что у вас нет ни одного друга..'
-FRIENDS_GUI_ONLINE_OFFLINE: '&7В сети: %s'
-FRIENDS_GUI_ONLINE: '&aда'
-FRIENDS_GUI_OFFLINE: '&cнет'
-FRIENDS_GUI_ONLINE_2: '&7Находится на сервере: &a%s'
-FRIENDS_GUI_OFFLINE_TIME: '&7Был в сети: &a%s'
-FRIENDS_GUI_INVITE_PARTY_DESC1: '&7Чтобы пригласить друга в свою группу,'
-FRIENDS_GUI_INVITE_PARTY_DESC2: '&7кликните &aЛКМ&7, чтобы убрать игрока'
-FRIENDS_GUI_INVITE_PARTY_DESC3: '&7из списка друзей, нажмите &aПКМ&7.'
-FRIENDS_GUI_BACK: 'Назад'
-FRIENDS_GUI_PAGE: ' страница'
-FRIENDS_INFO: 'Информация'
+FRIENDS_NO_HAVE: "&cУ вас нет ни одного друга :("
+FRIENDS_CMD_LIST: "&eСписок ваших друзей (стр. %d/%d)"
+FRIENDS_CMD_WHERE: "&f- %s&7 находится на сервере &b%s&7."
+FRIENDS_CMD_WHERE2: "&f- %s&c не в сети."
+FRIENDS_CMD_INVITE_PARTY: "&7&oНажмите, чтобы отправить приглашение в группу."
+FRIENDS_GUI_LIST: "Мои друзья (Стр. %d/%d)"
+FRIENDS_GUI_NO_HAVE: "&7Пока что у вас нет ни одного друга.."
+FRIENDS_GUI_ONLINE_OFFLINE: "&7В сети: %s"
+FRIENDS_GUI_ONLINE: "&aда"
+FRIENDS_GUI_OFFLINE: "&cнет"
+FRIENDS_GUI_ONLINE_2: "&7Находится на сервере: &a%s"
+FRIENDS_GUI_OFFLINE_TIME: "&7Был в сети: &a%s"
+FRIENDS_GUI_INVITE_PARTY_DESC1: "&7Чтобы пригласить друга в свою группу,"
+FRIENDS_GUI_INVITE_PARTY_DESC2: "&7кликните &aЛКМ&7, чтобы убрать игрока"
+FRIENDS_GUI_INVITE_PARTY_DESC3: "&7из списка друзей, нажмите &aПКМ&7."
+FRIENDS_GUI_BACK: "Назад"
+FRIENDS_GUI_PAGE: " страница"
+FRIENDS_INFO: "Информация"
 FRIENDS_INFO_2:
-  - '&7Чтобы добавить игрока в друзья, достаточно'
-  - '&7написать команду &a/friend add <ник игрока>&7.'
-  - '&7Если же вы хотите принять чье-то приглашение, тогда'
-  - '&7используйте &a/friend accept <ник игрока>&7. Если'
-  - '&7вы хотите отклонить приглашение в друзья, смело пишите'
-  - '&7команду &a/friend deny <ник игрока>&7, ну и на последок,'
-  - '&7если вы больше не хотите дружить с каким-либо игроком,'
-  - '&7можете разорвать с ним дружбу, используя команду'
-  - '&a/friend remove <ник игрока>&7.'
-  - ''
-  - '&7Всю дополнительную информацию можно получить,'
-  - '&7просто написав команду &a/friend help&7.'
-FRIENDS_GUI_REQUEST_1: '%s &eотправил вам запрос на добавление в друзья.'
-FRIENDS_GUI_REQUEST_2: '&aНажмите, чтобы &2принять &aзапрос в друзья.'
-FRIENDS_GUI_REQUEST_3: '&7&oНажмите, чтобы принять запрос в друзья'
-FRIENDS_GUI_REQUEST_4: '&cНажмите, чтобы &4отклонить &cзапрос в друзья.'
-FRIENDS_GUI_REQUEST_5: '&7&oНажмите, чтобы отклонить запрос в друзья'
+  - "&7Чтобы добавить игрока в друзья, достаточно"
+  - "&7написать команду &a/friend add <ник игрока>&7."
+  - "&7Если же вы хотите принять чье-то приглашение, тогда"
+  - "&7используйте &a/friend accept <ник игрока>&7. Если"
+  - "&7вы хотите отклонить приглашение в друзья, смело пишите"
+  - "&7команду &a/friend deny <ник игрока>&7, ну и на последок,"
+  - "&7если вы больше не хотите дружить с каким-либо игроком,"
+  - "&7можете разорвать с ним дружбу, используя команду"
+  - "&a/friend remove <ник игрока>&7."
+  - ""
+  - "&7Всю дополнительную информацию можно получить,"
+  - "&7просто написав команду &a/friend help&7."
+FRIENDS_GUI_REQUEST_1: "%s &eотправил вам запрос на добавление в друзья."
+FRIENDS_GUI_REQUEST_2: "&aНажмите, чтобы &2принять &aзапрос в друзья."
+FRIENDS_GUI_REQUEST_3: "&7&oНажмите, чтобы принять запрос в друзья"
+FRIENDS_GUI_REQUEST_4: "&cНажмите, чтобы &4отклонить &cзапрос в друзья."
+FRIENDS_GUI_REQUEST_5: "&7&oНажмите, чтобы отклонить запрос в друзья"
 
 #Пати
-PARTY_GUI_REQUEST_1: '%s &eприглашает вас в свою группу.'
-PARTY_GUI_REQUEST_2: '&aНажмите, чтобы &2принять &aприглашение.'
-PARTY_GUI_REQUEST_3: '&7&oНажмите, чтобы принять приглашение'
-PARTY_GUI_REQUEST_4: '&cНажмите, чтобы &4отклонить &cприглашение.'
-PARTY_GUI_REQUEST_5: '&7&oНажмите, чтобы отклонить приглашение'
+PARTY_GUI_REQUEST_1: "%s &eприглашает вас в свою группу."
+PARTY_GUI_REQUEST_2: "&aНажмите, чтобы &2принять &aприглашение."
+PARTY_GUI_REQUEST_3: "&7&oНажмите, чтобы принять приглашение"
+PARTY_GUI_REQUEST_4: "&cНажмите, чтобы &4отклонить &cприглашение."
+PARTY_GUI_REQUEST_5: "&7&oНажмите, чтобы отклонить приглашение"
 
 #Уровни
-LEVELING_GOLD: '&6%d золота'
-LEVELING_BOOSTER: '&eМножитель x%s &7- &e%s &7(x%d)'
-LEVELING_GUI_NAME: 'Награды за уровни (Стр. %d/%d)'
-LEVELING_GUI_REWARD: '&7Награда за достижение уровня:'
-LEVELING_GUI_REWARD_ALREADY: '&aВы уже получили эту награду!'
-LEVELING_GUI_DONT: '&cЭта награда доступна с %d уровня!'
-LEVELING_GUI_CLAIM: '&eНажмите, чтобы забрать награду!'
-LEVELING_GUI_LEVEL: '&3Уровень #%d'
-LEVELING_MSG_ALREADY: '&aВы уже забрали эту награду.'
-LEVELING_MSG_DONT: '&cЭта награда доступна к получению с &a%d &cуровня.'
-LEVELING_TITLE_CLAIM: '&3Награда за %d серверный уровень'
-LEVELING_BACK: 'Назад'
-LEVELING_PAGE: ' страница'
-LEVELING_TITLE_UP: '&7Поздравляем с получением &b%d &7уровня'
-LEVELING_MSG_UP: '&aПоздравляем, ваш уровень повысился до &b&l%d-го!'
-LEVELING_TITLE_CLAIM: '&3Награда за %d серверный уровень'
-LEVELING_PLUS: '(+%d дополнительно) %s'
-LEVELING_UNO: 'опыт'
-LEVELING_DUO: 'опыта'
-LEVELING_ANOTHER: 'опыта'
+LEVELING_GOLD: "&6%d золота"
+LEVELING_BOOSTER: "&eМножитель x%s &7- &e%s &7(x%d)"
+LEVELING_GUI_NAME: "Награды за уровни (Стр. %d/%d)"
+LEVELING_GUI_REWARD: "&7Награда за достижение уровня:"
+LEVELING_GUI_REWARD_ALREADY: "&aВы уже получили эту награду!"
+LEVELING_GUI_DONT: "&cЭта награда доступна с %d уровня!"
+LEVELING_GUI_CLAIM: "&eНажмите, чтобы забрать награду!"
+LEVELING_GUI_LEVEL: "&3Уровень #%d"
+LEVELING_MSG_ALREADY: "&aВы уже забрали эту награду."
+LEVELING_MSG_DONT: "&cЭта награда доступна к получению с &a%d &cуровня."
+LEVELING_TITLE_CLAIM: "&3Награда за %d серверный уровень"
+LEVELING_BACK: "Назад"
+LEVELING_PAGE: " страница"
+LEVELING_TITLE_UP: "&7Поздравляем с получением &b%d &7уровня"
+LEVELING_MSG_UP: "&aПоздравляем, ваш уровень повысился до &b&l%d-го!"
+LEVELING_TITLE_CLAIM: "&3Награда за %d серверный уровень"
+LEVELING_PLUS: "(+%d дополнительно) %s"
+LEVELING_UNO: "опыт"
+LEVELING_DUO: "опыта"
+LEVELING_ANOTHER: "опыта"
 
 #Меню
-GUIMENU_WHAT: '&aЧто это?'
+GUIMENU_WHAT: "&aЧто это?"
 GUIMENU_COMPASS_WHAT_2:
-  - '&7С помощью данного меню, вы'
-  - '&7можете выбрать мини-игру, в которую'
-  - '&7хотите поиграть.'
-GUIMENU_COMPASS_NAME: 'Игровой компас'
-GUIMENU_COMPASS_HUB: 'Главное лобби'
+  - "&7С помощью данного меню, вы"
+  - "&7можете выбрать мини-игру, в которую"
+  - "&7хотите поиграть."
+GUIMENU_COMPASS_NAME: "Игровой компас"
+GUIMENU_COMPASS_HUB: "Главное лобби"
 GUIMENU_COMPASS_HUB_2:
-  - '&7Нажмите, чтобы вернуться на'
-  - '&7главный хаб проекта.'
-GUIMENU_COMPASS_CONNECT: '&a%s &7Нажмите, чтобы подключиться!'
+  - "&7Нажмите, чтобы вернуться на"
+  - "&7главный хаб проекта."
+GUIMENU_COMPASS_CONNECT: "&a%s &7Нажмите, чтобы подключиться!"
 GUIMENU_COMPASS_SKYWARS:
-  - '&7Популярный режим в исполнении команды'
-  - '&7нашего проекта!'
-  - ''
-  - '&7Действие режима происходит в воздухе на'
-  - '&7островах, где от 8 до 24 игроков сражаются'
-  - '&7между собой. Желание выжить и победить, -'
-  - '&7вот, что управляет ими. По всей карте разбросано'
-  - '&7множество сундуков с ценными вещами, которые помогут'
-  - '&7вам победить. Убивайте игроков, получайте душы,'
-  - '&7открывайте новые игровые классы, прокачивайте перки'
-  - '&7и совершайте пожертвования Ангелу Смерти, чтобы'
-  - '&7разнообразить свой игровой опыт.'
-  - ''
-  - '&aОдиночный&7, &9Doubles &7и &cРейтинговые &7режимы!'
-  - ''
+  - "&7Популярный режим в исполнении команды"
+  - "&7нашего проекта!"
+  - ""
+  - "&7Действие режима происходит в воздухе на"
+  - "&7островах, где от 8 до 24 игроков сражаются"
+  - "&7между собой. Желание выжить и победить, -"
+  - "&7вот, что управляет ими. По всей карте разбросано"
+  - "&7множество сундуков с ценными вещами, которые помогут"
+  - "&7вам победить. Убивайте игроков, получайте душы,"
+  - "&7открывайте новые игровые классы, прокачивайте перки"
+  - "&7и совершайте пожертвования Ангелу Смерти, чтобы"
+  - "&7разнообразить свой игровой опыт."
+  - ""
+  - "&aОдиночный&7, &9Doubles &7и &cРейтинговые &7режимы!"
+  - ""
 GUIMENU_COMPASS_BEDWARS:
-  - '&7Действие режима происходит в воздухе'
-  - '&7на островах, где от 8 до 16 игроков сражаются'
-  - '&7между собой. У каждой команды есть своя кровать,'
-  - '&7которую они должны защищать. Воскрешение игрока'
-  - '&7после смерти будет только в том случае, если у'
-  - '&7команды имеется целая кровать. Побеждает команда,'
-  - '&7в которой остался живым хотя бы один игрок, при'
-  - '&7условии, что все игроки других команд погибли,'
-  - '&7а их кровати были разрушены!'
-  - ''
+  - "&7Действие режима происходит в воздухе"
+  - "&7на островах, где от 8 до 16 игроков сражаются"
+  - "&7между собой. У каждой команды есть своя кровать,"
+  - "&7которую они должны защищать. Воскрешение игрока"
+  - "&7после смерти будет только в том случае, если у"
+  - "&7команды имеется целая кровать. Побеждает команда,"
+  - "&7в которой остался живым хотя бы один игрок, при"
+  - "&7условии, что все игроки других команд погибли,"
+  - "&7а их кровати были разрушены!"
+  - ""
 GUIMENU_COMPASS_SOON:
-  - '&7Режим разрабатывается...'
-  - ''
-  - '&fСледите за новостями в группе &bВКонтакте&f:'
-  - '&f» &bwww.vk.com/loeage'
+  - "&7Режим разрабатывается..."
+  - ""
+  - "&fСледите за новостями в группе &bВКонтакте&f:"
+  - "&f» &bwww.vk.com/loeage"
 GUIMENU_COMPASS_SOON_2:
-  - '&8&oНазвание режима неизвестно...'
-  - ''
-  - '&7Режим разрабатывается...'
-  - ''
-  - '&fСледите за новостями в группе &bВКонтакте&f:'
-  - '&f» &bwww.vk.com/loeage'
-GUIMENU_COMPASS_SOCIAL_SERVER: '&7проекта.'
-GUIMENU_COMPASS_SOCIAL_LINK: '&7Ссылка отправлена в чат'
-GUIMENU_COMPASS_SOCIAL_YT_1: '&7&lYou&c&lTube &7канал'
-GUIMENU_COMPASS_SOCIAL_YT_2: '&7Ссылка на You&cTube &7канал'
-GUIMENU_COMPASS_SOCIAL_YT_3: '&8» &chttps://youtube.com/channel/UCTO_WQ0XoJytDDIuvsnFwbQ'
-GUIMENU_COMPASS_SOCIAL_YT_4: '&8» &7&lYou&c&lTube'
-GUIMENU_COMPASS_SOCIAL_YT_5: '&aYouTube канал проекта - &6https://youtube.com/channel/UCTO_WQ0XoJytDDIuvsnFwbQ'
-GUIMENU_COMPASS_SOCIAL_DISCORD_1: '&9&lDiscord &7сервер'
-GUIMENU_COMPASS_SOCIAL_DISCORD_2: '&7Ссылка на &9Discord &7сервер'
-GUIMENU_COMPASS_SOCIAL_DISCORD_3: '&8» &9https://discord.gg/loeage'
-GUIMENU_COMPASS_SOCIAL_DISCORD_4: '&8» &9&lDiscord'
-GUIMENU_COMPASS_SOCIAL_DISCORD_5: '&aDiscord сервер проекта - &6https://discord.gg/loeage'
-GUIMENU_COMPASS_SOCIAL_VK_1: '&7Группа &b&lВКонтакте'
-GUIMENU_COMPASS_SOCIAL_VK_2: '&7Ссылка на &7группу &bВКонтакте'
-GUIMENU_COMPASS_SOCIAL_VK_3: '&8» &bhttps://vk.com/loeage'
-GUIMENU_COMPASS_SOCIAL_VK_4: '&8» &b&lВКонтакте'
-GUIMENU_COMPASS_SOCIAL_VK_5: '&aГруппа ВКонтакте проекта - &6https://vk.com/loeage'
+  - "&8&oНазвание режима неизвестно..."
+  - ""
+  - "&7Режим разрабатывается..."
+  - ""
+  - "&fСледите за новостями в группе &bВКонтакте&f:"
+  - "&f» &bwww.vk.com/loeage"
+GUIMENU_COMPASS_SOCIAL_SERVER: "&7проекта."
+GUIMENU_COMPASS_SOCIAL_LINK: "&7Ссылка отправлена в чат"
+GUIMENU_COMPASS_SOCIAL_YT_1: "&7&lYou&c&lTube &7канал"
+GUIMENU_COMPASS_SOCIAL_YT_2: "&7Ссылка на You&cTube &7канал"
+GUIMENU_COMPASS_SOCIAL_YT_3: "&8» &chttps://youtube.com/channel/UCTO_WQ0XoJytDDIuvsnFwbQ"
+GUIMENU_COMPASS_SOCIAL_YT_4: "&8» &7&lYou&c&lTube"
+GUIMENU_COMPASS_SOCIAL_YT_5: "&aYouTube канал проекта - &6https://youtube.com/channel/UCTO_WQ0XoJytDDIuvsnFwbQ"
+GUIMENU_COMPASS_SOCIAL_DISCORD_1: "&9&lDiscord &7сервер"
+GUIMENU_COMPASS_SOCIAL_DISCORD_2: "&7Ссылка на &9Discord &7сервер"
+GUIMENU_COMPASS_SOCIAL_DISCORD_3: "&8» &9https://discord.gg/loeage"
+GUIMENU_COMPASS_SOCIAL_DISCORD_4: "&8» &9&lDiscord"
+GUIMENU_COMPASS_SOCIAL_DISCORD_5: "&aDiscord сервер проекта - &6https://discord.gg/loeage"
+GUIMENU_COMPASS_SOCIAL_VK_1: "&7Группа &b&lВКонтакте"
+GUIMENU_COMPASS_SOCIAL_VK_2: "&7Ссылка на &7группу &bВКонтакте"
+GUIMENU_COMPASS_SOCIAL_VK_3: "&8» &bhttps://vk.com/loeage"
+GUIMENU_COMPASS_SOCIAL_VK_4: "&8» &b&lВКонтакте"
+GUIMENU_COMPASS_SOCIAL_VK_5: "&aГруппа ВКонтакте проекта - &6https://vk.com/loeage"
 
-GUIMENU_LOBBIES_NAME_1: 'Выбор %s'
-GUIMENU_LOBBIES_NAME_2: 'хаба'
-GUIMENU_LOBBIES_NAME_3: 'лобби'
-GUIMENU_LOBBIES_NAME_4: 'Хаб #'
-GUIMENU_LOBBIES_NAME_5: 'Лобби #'
-GUIMENU_LOBBIES_ALREADY: '&e▸ Вы находитесь на этом сервере!'
-GUIMENU_LOBBIES_ALREADY_2: '&cВы подключены к этому серверу.'
-GUIMENU_LOBBIES_JOIN: '&aНажмите, чтобы подключиться!'
+GUIMENU_LOBBIES_NAME_1: "Выбор %s"
+GUIMENU_LOBBIES_NAME_2: "хаба"
+GUIMENU_LOBBIES_NAME_3: "лобби"
+GUIMENU_LOBBIES_NAME_4: "Хаб #"
+GUIMENU_LOBBIES_NAME_5: "Лобби #"
+GUIMENU_LOBBIES_ALREADY: "&e▸ Вы находитесь на этом сервере!"
+GUIMENU_LOBBIES_ALREADY_2: "&cВы подключены к этому серверу."
+GUIMENU_LOBBIES_JOIN: "&aНажмите, чтобы подключиться!"
 
-GUIMENU_DONATE_NAME: 'Игровые привилегии'
+GUIMENU_DONATE_NAME: "Игровые привилегии"
 GUIMENU_DONATE_WHAT:
-  - '&7В этом меню вы можете'
-  - '&7посмотреть все игровые привилегии'
-  - '&7сервера.'
-  - ''
-  - '&7Привилегии - денежная поддержка сервера,'
-  - '&7при которой вы получаете определённые права,'
-  - '&7которые представлены выше.'
-GUIMENU_DONATE_HERO: '&9HERO'
+  - "&7В этом меню вы можете"
+  - "&7посмотреть все игровые привилегии"
+  - "&7сервера."
+  - ""
+  - "&7Привилегии - денежная поддержка сервера,"
+  - "&7при которой вы получаете определённые права,"
+  - "&7которые представлены выше."
+GUIMENU_DONATE_HERO: "&9HERO"
 GUIMENU_DONATE_HERO_2:
-  - ''
-  - '&7Общие возможности:'
-  - '&8&l▪ &fПрефикс &9[Hero] &7перед ником'
-  - '&8&l▪ &fПолёт в хабах и лобби'
-  - '&8&l▪ &fБустер монет &c1.хз'
-  - '&8&l▪ &fДополнительные ежедневные награды'
-  - '&8&l▪ &fСообщение при входе'
-  - ''
-  - '&7SkyWars возможности:'
-  - '&7...'
-  - ''
-  - '&7Стоимость:'
-  - '&8&l▪ &fНавсегда: &a15 рублей'
-GUIMENU_DONATE_LORD: '&6LORD'
+  - ""
+  - "&7Общие возможности:"
+  - "&8&l▪ &fПрефикс &9[Hero] &7перед ником"
+  - "&8&l▪ &fПолёт в хабах и лобби"
+  - "&8&l▪ &fБустер монет &c1.хз"
+  - "&8&l▪ &fДополнительные ежедневные награды"
+  - "&8&l▪ &fСообщение при входе"
+  - ""
+  - "&7SkyWars возможности:"
+  - "&7..."
+  - ""
+  - "&7Стоимость:"
+  - "&8&l▪ &fНавсегда: &a15 рублей"
+GUIMENU_DONATE_LORD: "&6LORD"
 GUIMENU_DONATE_LORD_2:
-  - ''
-  - '&7Общие возможности:'
-  - '&8&l▪ &fПрефикс &6[Lord] &7перед ником'
-  - '&8&l▪ &fПолёт в хабах и лобби'
-  - '&8&l▪ &fБустер монет &c1.хз'
-  - '&8&l▪ &fДополнительные ежедневные награды'
-  - '&8&l▪ &fСообщение при входе'
-  - ''
-  - '&7SkyWars возможности:'
-  - '&7...'
-  - ''
-  - '&7Стоимость:'
-  - '&8&l▪ &fНавсегда: &a39 рублей'
-GUIMENU_DONATE_ULTRA: '&bULTRA'
+  - ""
+  - "&7Общие возможности:"
+  - "&8&l▪ &fПрефикс &6[Lord] &7перед ником"
+  - "&8&l▪ &fПолёт в хабах и лобби"
+  - "&8&l▪ &fБустер монет &c1.хз"
+  - "&8&l▪ &fДополнительные ежедневные награды"
+  - "&8&l▪ &fСообщение при входе"
+  - ""
+  - "&7SkyWars возможности:"
+  - "&7..."
+  - ""
+  - "&7Стоимость:"
+  - "&8&l▪ &fНавсегда: &a39 рублей"
+GUIMENU_DONATE_ULTRA: "&bULTRA"
 GUIMENU_DONATE_ULTRA_2:
-  - ''
-  - '&7Общие возможности:'
-  - '&8&l▪ &fПрефикс &b[Ultra] &7перед ником'
-  - '&8&l▪ &fПолёт в хабах и лобби'
-  - '&8&l▪ &fБустер монет &c1.хз'
-  - '&8&l▪ &fДополнительные ежедневные награды'
-  - '&8&l▪ &fСообщение при входе'
-  - ''
-  - '&7SkyWars возможности:'
-  - '&7...'
-  - ''
-  - '&7Стоимость:'
-  - '&8&l▪ &fНавсегда: &a99 рублей'
-GUIMENU_DONATE_ELITE: '&aELITE'
+  - ""
+  - "&7Общие возможности:"
+  - "&8&l▪ &fПрефикс &b[Ultra] &7перед ником"
+  - "&8&l▪ &fПолёт в хабах и лобби"
+  - "&8&l▪ &fБустер монет &c1.хз"
+  - "&8&l▪ &fДополнительные ежедневные награды"
+  - "&8&l▪ &fСообщение при входе"
+  - ""
+  - "&7SkyWars возможности:"
+  - "&7..."
+  - ""
+  - "&7Стоимость:"
+  - "&8&l▪ &fНавсегда: &a99 рублей"
+GUIMENU_DONATE_ELITE: "&aELITE"
 GUIMENU_DONATE_ELITE_2:
-  - ''
-  - '&7Общие возможности:'
-  - '&8&l▪ &fПрефикс &a[Elite] &7перед ником'
-  - '&8&l▪ &fПолёт в хабах и лобби'
-  - '&8&l▪ &fБустер монет &c1.хз'
-  - '&8&l▪ &fДополнительные ежедневные награды'
-  - '&8&l▪ &fСообщение при входе'
-  - ''
-  - '&7SkyWars возможности:'
-  - '&7...'
-  - ''
-  - '&7Стоимость:'
-  - '&8&l▪ &fНавсегда: &a299 рублей'
-GUIMENU_DONATE_LEGEND: '&eLEGEND'
+  - ""
+  - "&7Общие возможности:"
+  - "&8&l▪ &fПрефикс &a[Elite] &7перед ником"
+  - "&8&l▪ &fПолёт в хабах и лобби"
+  - "&8&l▪ &fБустер монет &c1.хз"
+  - "&8&l▪ &fДополнительные ежедневные награды"
+  - "&8&l▪ &fСообщение при входе"
+  - ""
+  - "&7SkyWars возможности:"
+  - "&7..."
+  - ""
+  - "&7Стоимость:"
+  - "&8&l▪ &fНавсегда: &a299 рублей"
+GUIMENU_DONATE_LEGEND: "&eLEGEND"
 GUIMENU_DONATE_LEGEND_2:
-  - ''
-  - '&7Общие возможности:'
-  - '&8&l▪ &fПрефикс &e[Legend] &7перед ником'
-  - '&8&l▪ &fПолёт в хабах и лобби'
-  - '&8&l▪ &fБустер монет &c1.хз'
-  - '&8&l▪ &fДополнительные ежедневные награды'
-  - '&8&l▪ &fСообщение при входе'
-  - ''
-  - '&7SkyWars возможности:'
-  - '&7...'
-  - ''
-  - '&7Стоимость:'
-  - '&8&l▪ &fНавсегда: &a499 рублей'
+  - ""
+  - "&7Общие возможности:"
+  - "&8&l▪ &fПрефикс &e[Legend] &7перед ником"
+  - "&8&l▪ &fПолёт в хабах и лобби"
+  - "&8&l▪ &fБустер монет &c1.хз"
+  - "&8&l▪ &fДополнительные ежедневные награды"
+  - "&8&l▪ &fСообщение при входе"
+  - ""
+  - "&7SkyWars возможности:"
+  - "&7..."
+  - ""
+  - "&7Стоимость:"
+  - "&8&l▪ &fНавсегда: &a499 рублей"
+
+GUIMENU_PROFILE_NAME: "Мой профиль"
+GUIMENU_PROFILE_WHAT:
+  - "&7Это меню подскажет вам ваш"
+  - "&7персональный множитель, покажет все"
+  - "&7ваши достижения, поможет активировать"
+  - "&7персональный множитель, посмотеть"
+  - "&7список ваших друзей, сменить язык сервера и"
+  - "&7забрать награду за ваш серверный уровень."
+GUIMENU_PROFILE_INFO_1: "&aИнформация о профиле"
+GUIMENU_PROFILE_INFO_2: "&8&oДата регистрации: %s"
+GUIMENU_PROFILE_INFO_3: "&8&oИдентификатор аккаунта: %s"
+GUIMENU_PROFILE_INFO_4: "&7Никнейм: &7%s"
+GUIMENU_PROFILE_INFO_5: "&7Группа: %s"
+GUIMENU_PROFILE_INFO_6: "&7Уровень: &a%d"
+GUIMENU_PROFILE_INFO_7: "&7Опыт: &a%d/%d"
+GUIMENU_PROFILE_INFO_8: "&7Уровень достижений: &a%d"
+GUIMENU_PROFILE_LEVELING_1: "&aНаграды за уровни"
+GUIMENU_PROFILE_LEVELING_3: "&7Уровень: &3%d %s"
+GUIMENU_PROFILE_LEVELING_4: "&7Опыта до следующего уровня: &3%d"
+GUIMENU_PROFILE_LEVELING_5: "&eНажмите, чтобы открыть меню!"
+GUIMENU_PROFILE_LEVELING_6: "&7Бегая на нашем проекте, играя в различные"
+GUIMENU_PROFILE_LEVELING_7: "&7мини-игры, а также выполняя разнообразные"
+GUIMENU_PROFILE_LEVELING_8: "&7задания и квесты, вы будете получать очки"
+GUIMENU_PROFILE_LEVELING_9: "&7межсерверного опыта, который так необходим"
+GUIMENU_PROFILE_LEVELING_10: "&7для повышения вашего межсерверного уровня."
+GUIMENU_PROFILE_LEVELING_11: ""
+GUIMENU_PROFILE_LEVELING_12: "&7За повышение уровня вам будут выдаваться"
+GUIMENU_PROFILE_LEVELING_13: "&7награды, множители, золото и многое другое."
+GUIMENU_PROFILE_ACHIVEMENTS_1: "&aДостижения"
+GUIMENU_PROFILE_ACHIVEMENTS_2: "&7Достижения - приятная награда за все"
+GUIMENU_PROFILE_ACHIVEMENTS_3: "&7ваши старания, благодаря которым, вы"
+GUIMENU_PROFILE_ACHIVEMENTS_4: "&7прокачиваете своего игрового персонажа."
+GUIMENU_PROFILE_ACHIVEMENTS_5: "&7Достижений выполнено: &a%d"
+GUIMENU_PROFILE_ACHIVEMENTS_6: "&eНажмите, чтобы открыть меню!"
+GUIMENU_PROFILE_BOOSTER_COINS_1: "&aМодификатор монет"
+GUIMENU_PROFILE_BOOSTER_COINS_2: "&7Модификатор монет - полезное дополнение, которое"
+GUIMENU_PROFILE_BOOSTER_COINS_3: "&7увеличивает количество получаемых вами монет."
+GUIMENU_PROFILE_BOOSTER_COINS_4: "&7Суммарный модификатор монет: &6x%s"
+GUIMENU_PROFILE_BOOSTER_COINS_5: "&7Основной модификатор: &6x%s"
+GUIMENU_PROFILE_BOOSTER_COINS_6: "&7Модификатор от множителя: &6x%s"
+GUIMENU_PROFILE_BOOSTER_COINS_7: "&7Модификатор от подписки: &6x%s"
+GUIMENU_PROFILE_BOOSTER_1: "&aПерсональные множители"
+GUIMENU_PROFILE_BOOSTER_2: "&7Множители - специальные награды, которые"
+GUIMENU_PROFILE_BOOSTER_3: "&7будут увеличивать количество получаемых"
+GUIMENU_PROFILE_BOOSTER_4: "&7вами монет на всех мини-режимах проекта."
+GUIMENU_PROFILE_BOOSTER_5: "&7Множители ограничены по времени и прибавляются,"
+GUIMENU_PROFILE_BOOSTER_6: "&7а не умножаются на общий модификатор монет."
+GUIMENU_PROFILE_BOOSTER_7: "&7Всего множителей: &a%d"
+GUIMENU_PROFILE_BOOSTER_8: "&eНажмите, чтобы открыть меню!"
+GUIMENU_PROFILE_BOOSTER_9_MSG_NO: "&cУ вас нет ни одного персонального множителя."
+GUIMENU_PROFILE_FRIENDS_1: "&aМои друзья"
+GUIMENU_PROFILE_FRIENDS_2: "&7Используйте это меню, как альтернативу"
+GUIMENU_PROFILE_FRIENDS_3: "&7команды /friend, для удобного управления"
+GUIMENU_PROFILE_FRIENDS_4: "&7своими друзьями на нашем проекте."
+GUIMENU_PROFILE_FRIENDS_5: "&7Друзей: &a%d"
+GUIMENU_PROFILE_FRIENDS_6: "&eНажмите, чтобы открыть меню!"
+GUIMENU_PROFILE_LANG_1: "&aСмена языка"
+GUIMENU_PROFILE_LANG_2: "&eНажмите, чтобы открыть меню!"
+GUIMENU_PROFILE_LANG_3: "&aВаш язык был успешно изменен на"
+
+GUIMENU_REPORTS_NAME: "Меню жалоб"
+GUIMENU_REPORTS_NOONE_1: "&cНет активных жалоб"
+GUIMENU_REPORTS_NOONE_2:
+  - "&7В настоящий момент, на игроков"
+  - "&7не подана ни одна жалоба."
+GUIMENU_REPORTS_REPORT_1: "Жалоба на %s"
+GUIMENU_REPORTS_REPORT_2:
+  - "&7Нажмите, чтобы просмотреть более"
+  - "&7подробную информацию по данной жалобе."
+GUIMENU_REPORTS_PREPORT_1: "&eИнформация о жалобе"
+GUIMENU_REPORTS_PREPORT_2: "&7Идентификатор: &b%s"
+GUIMENU_REPORTS_PREPORT_3: "&7Дата регистрации: &b%s"
+GUIMENU_REPORTS_PREPORT_4: "&7В сети: %s"
+GUIMENU_REPORTS_PREPORT_5: "&aда&7, находится на &b"
+GUIMENU_REPORTS_PREPORT_6: "&cнет&7, находился на &b"
+GUIMENU_REPORTS_PREPORT_7: "&7В сумме подано жалоб: &b%d"
+GUIMENU_REPORTS_PREPORT_8: "&7Жалобу впервые подал: %s"
+GUIMENU_REPORTS_PREPORT_9: "&7Причина: &b%s"
+GUIMENU_REPORTS_SPEC_1: "&eНаблюдать за игроком"
+GUIMENU_REPORTS_SPEC_2:
+  - "&7Нажмите, чтобы начать наблюдать за игроком."
+  - "&7Учтите, что это работает только на игровых"
+  - "&7серверах. В противном случае, вы будете"
+  - "&7телепортированы к игроку на сервер, но не"
+  - "&7сможете следить за ним в режиме наблюдателя."
+GUIMENU_REPORTS_ERROR_MSG: "&cЭтот игрок не в сети. Отложите жалобу для ее дальнейшего рассмотрения, когда игрок появится в сети."
+GUIMENU_REPORTS_END_1: "&eЗавершить работу"
+GUIMENU_REPORTS_END_2:
+  - "&7Нажмите, чтобы завершить работу"
+  - "&7с этим репортом. Он будет удален."
+
+GUIMENU_STREAMS_NAME: "Активные трансляции"
+GUIMENU_STREAMS_NOONE_1: "&cНет активных трансляций"
+GUIMENU_STREAMS_NOONE_2:
+  - "&7В настоящий момент, на проекте"
+  - "&7не запущена ни одна трансляция :("
+GUIMENU_STREAMS_STREAM_1: "&eСтрим %s"
+GUIMENU_STREAMS_STREAM_2: "&7Платформа: &cYouTube"
+GUIMENU_STREAMS_STREAM_3: "&7Зрителей: &b%d"
+GUIMENU_STREAMS_STREAM_4: "&7Стример: %s"
+GUIMENU_STREAMS_STREAM_5: "&7Начало стрима: &b%s"
+GUIMENU_STREAMS_STREAM_6: "&eНажмите, чтобы получить ссылку!"
+GUIMENU_STREAMS_STREAM_MSG: "&eСсылка на стрим %s&e:"
 
 #Дизгайс:
-DISGUISE_ON_1: '&aТеперь, ваш никнейм будет отображаться как %s&a.'
-DISGUISE_ON_2: '&aПерезайдите на другой сервер, чтобы изменения вступили в силу.'
-DISGUISE_OFF_1: '&aВы больше не скрываетесь под никнеймом или группой другого игрока.'
-DISGUISE_OFF_2: '&aПерезайдите на другой сервер, чтобы изменения вступили в силу.'
+DISGUISE_ON_1: "&aТеперь, ваш никнейм будет отображаться как %s&a."
+DISGUISE_ON_2: "&aПерезайдите на другой сервер, чтобы изменения вступили в силу."
+DISGUISE_OFF_1: "&aВы больше не скрываетесь под никнеймом или группой другого игрока."
+DISGUISE_OFF_2: "&aПерезайдите на другой сервер, чтобы изменения вступили в силу."
