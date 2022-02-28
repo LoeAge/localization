@@ -718,3 +718,41 @@ DISGUISE_ON_1: "&aYour nickname will now be displayed as %s&a."
 DISGUISE_ON_2: "&aPlease switch to a different server for the changes to take effect."
 DISGUISE_OFF_1: "&aYou are no longer hiding under another player's nickname or group."
 DISGUISE_OFF_2: "&aPlease switch to a different server for the changes to take effect."
+
+#admin chat
+ADMINCHAT_HELP_1: "/ac <message>"
+ADMINCHAT_HELP_2: "server-to-server admin chat"
+ADMINCHAT_MESSAGE_1: "message"
+ADMINCHAT_MESSAGE_2: "empty message"
+
+#ban
+BAN_HELP_1: "/ban <player name> <ban time> [reason for ban]"
+BAN_HELP_2: "ban player account"
+BAN_MESSAGE_1: "player nickname"
+BAN_MESSAGE_2: "block time"
+BAN_MESSAGE_3: "reason for blocking"
+BAN_MESSAGE_4: "&cYou have specified an invalid time format. Usage example: &e1h25m&c."
+BAN_MESSAGE_5: "Not Specified"
+
+#broadcast
+BROADCAST_HELP_1: "/broadcast <message>"
+BROADCAST_HELP_2: "send a cross-server announcement on your behalf, visible to the whole project"
+BROADCAST_MESSAGE_1: "message"
+BROADCAST_MESSAGE_2: "&cInsufficient gold to execute command (requires &6%d gold&c)."
+BROADCAST_MESSAGE_3: "&cYou can only send cross-server messages once every 30 minutes."
+BROADCAST_MESSAGE_4: "&eThe cost per message is &6%d gold&e."
+BROADCAST_MESSAGE_5: "&ePlease enter this command again to continue sending."
+BROADCAST_MESSAGE_6: "&7[&dAD&7] %s&8: &d"
+BROADCAST_MESSAGE_7: "&aAnnouncement sent!"
+BROADCAST_MESSAGE_8: "&cTimed out waiting for a response from the master sync server."
+
+#chat
+CHAT_HELP_1: "/chat <channel name>"
+CHAT_HELP_2: "manage chat channels"
+CHAT_MESSAGE_1: "&eHelp with /chat command:"
+CHAT_MESSAGE_2: "switch to regular chat"
+CHAT_MESSAGE_3: "switch to your group chat"
+CHAT_MESSAGE_4: "switch to VIP chat"
+CHAT_MESSAGE_5: "switch to staff chat"
+CHAT_MESSAGE_6: "switch to admin chat"
+CHAT_MESSAGE_7: "The specified subcommand is not registered on the system"
