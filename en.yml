@@ -2,30 +2,30 @@
 #                                      #
 #Локализация игрового проекта MineCraft#
 #           LoeAge Network             #
-#           Язык: Русский              #
+#           Язык: Английский           #
 #                                      #
 ########################################
 
 ########################################
 #       Префиксы систем проекта        #
 ########################################
-PREFIX_SETTINGS: "&6Настройки"
-PREFIX_SKINS: "&6Скины"
-PREFIX_BUNGEE: "&cBungee"
-PREFIX_PARTY: "&6Группа"
-PREFIX_QUEUES: "&eОчереди"
-PREFIX_STREAMS: "&6Трансляции"
-PREFIX_FRIENDS: "&6Друзья"
-PREFIX_NETWORK: "&6Система"
-PREFIX_REPORTS: "&6Жалобы"
-PREFIX_COMMANDS: "&6Команды"
-PREFIX_BOOSTERS: "&6Бустеры"
-PREFIX_ANTI-FLOOD: "&3&lГеркулес"
-PREFIX_DELIVERIES: "&6Ежедневные награды"
-PREFIX_INFORMATION: "&6Информация"
-PREFIX_INFRACTIONS: "&eМодерация"
-PREFIX_COLLECTIBLES: "&6Коллекция"
-PREFIX_NETWORK_LEVELING: "&6Уровень"
-PREFIX_ERROR: "&cОшибка"
-PREFIX_DISGUISE: "&6Маскировка"
-PREFIX_COINS_CHANGER: "Казначей"
+SETTINGS: "&6Настройки"
+SKINS: "&6Скины"
+BUNGEE: "&cBungee"
+PARTY: "&6Группа"
+QUEUES: "&eОчереди"
+STREAMS: "&6Трансляции"
+FRIENDS: "&6Друзья"
+NETWORK: "&6Система"
+REPORTS: "&6Жалобы"
+COMMANDS: "&6Команды"
+BOOSTERS: "&6Бустеры"
+ANTI-FLOOD: "&3&lГеркулес"
+DELIVERIES: "&6Ежедневные награды"
+INFORMATION: "&6Информация"
+INFRACTIONS: "&eМодерация"
+COLLECTIBLES: "&6Коллекция"
+NETWORK_LEVELING: "&6Уровень"
+ERROR: "&cОшибка"
+DISGUISE: "&6Маскировка"
+COINS_CHANGER: "Казначей"
