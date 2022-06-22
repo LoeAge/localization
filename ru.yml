@@ -30,3 +30,78 @@ ERROR: "&cОшибка"
 DISGUISE: "&6Маскировка"
 COINS_CHANGER: "Казначей"
 AUTH: "&bАвторизация"
+
+########################################
+#             HUB // Lobby             #
+########################################
+TABLIST_HEADER_BETA: "&fТестирование проекта"
+TABLIST_FOOTER_SERVER: "&fВы на сервере &b%s"
+TABLIST_FOOTER_DONATE_1: "&fПриобрести привилегию:"
+TABLIST_FOOTER_DONATE_2: "&bwww.loeage.net"
+
+ITEM_COMPASS: "&6Игровое меню"
+ITEM_COMPASS_LORE_1: "Нажмите, чтобы открыть игровое"
+ITEM_COMPASS_LORE_2: "меню и выбрать режим."
+ITEM_PROFILE: "&6Профиль %s"
+ITEM_PROFILE_LORE_1: "Нажмите, чтобы открыть меню"
+ITEM_PROFILE_LORE_2: "своего игрового профиля."
+ITEM_DONATE: "&6Привилегии"
+ITEM_DONATE_LORE_1: "Нажмите, чтобы открыть меню"
+ITEM_DONATE_LORE_2: "игровых привилегий."
+ITEM_PLAYERS_ON: "&cОтключить игроков"
+ITEM_PLAYERS_OFF: "&aВключить игроков"
+ITEM_PLAYERS_COOLDOWN_MESSAGE: "&fПожалуйста &bподождите &fдля повторного &bскрытия &fили &bпоказа &fигроков."
+ITEM_LOBBYSELECTOR: "&6Выбор лобби"
+ITEM_LOBBYSELECTOR_LORE_1: "Нажмите, чтобы сменить"
+ITEM_LOBBYSELECTOR_LORE_2: "текущий хаб или лобби."
+
+SCOREBOARD_RANG: "&fРанг: %s"
+SCOREBOARD_LEVEL: "&fУровень: &d%d"
+SCOREBOARD_PROGRESS: "%s %s"
+SCOREBOARD_COINS: "&fКоины: &6%d"
+SCOREBOARD_BOOSTERS_1: "&fВаши множители:"
+SCOREBOARD_BOOSTERS_2: "&6%s &3%s"
+SCOREBOARD_ONLINE: "&fОнлайн проекта: &a%d"
+
+MENU_LOBBYSELECTOR_NAME: "&7Выбор хаба"
+MENU_LOBBYSELECTOR_TEMPLATE_HUB: "&aХаб #%d"
+MENU_LOBBYSELECTOR_ALREADY_JOINED: "&c&lты уже тут"
+MENU_LOBBYSELECTOR_JOIN: "&aзайди"
+
+MENU_DONATE_NAME: "&7Игровые привилегии"
+MENU_DONATE_VIP_NAME: "&6&lVIP"
+MENU_DONATE_VIP_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_PREMIUM_NAME: "&e&lPREMIUM"
+MENU_DONATE_PREMIUM_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_ELITE_NAME: "&d&lELITE
+MENU_DONATE_ELITE_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_BASH_NAME: "&a&lBASH
+MENU_DONATE_BASH_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_FAQ_1_NAME: "&6На что идут деньги?"
+MENU_DONATE_FAQ_1_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_FAQ_2_NAME: "&6Для чего это нужно?"
+MENU_DONATE_FAQ_2_LORE:
+  -  ""
+  -  ""
+  -  ""
+MENU_DONATE_TITLE_ON_CLICK_FAQ: "&6Поддержите нас <3"
+MENU_DONATE_SUBTITLE_ON_CLICK_FAQ: "&eкупите донат на сайте &bwww.loeage.net"
+
+MENU_GAME_NAME: "&7Игровое меню | loeage.net"
+
+MENU_PROFILE_NAME: "&7Мой профиль"
